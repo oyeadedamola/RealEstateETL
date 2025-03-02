@@ -1,501 +1,537 @@
-addressLine1,city,state,zipCode,formattedAddress,squareFootage,yearBuilt,bathrooms,bedrooms,lotSize,longitude,latitude
-5870 N La Vona Ave,Clovis,CA,93619,"5870 N La Vona Ave, Clovis, CA 93619",1930.0,1985.0,1.0,3.0,87120.0,-119.629408,36.821668
-10750 W Cimarron Dr,Sun City,AZ,85373,"10750 W Cimarron Dr, Sun City, AZ 85373",1707.0,2002.0,2.0,2.0,6380.0,-112.291007,33.66379
-2721 E D Ave,Kalamazoo,MI,49009,"2721 E D Ave, Kalamazoo, MI 49009",0.0,1948.0,1.0,0.0,217800.0,-85.556693,42.37812
-24 5th St,Providence,RI,2906,"24 5th St, Providence, RI 02906",0.0,0.0,0.0,0.0,0.0,-71.400562,41.852228
-2518 17th St NW,Washington,DC,20009,"2518 17th St NW, Apt 105, Washington, DC 20009",0.0,0.0,0.0,0.0,0.0,-77.03938,38.923763
-303 Cone St,Rincon,GA,31326,"303 Cone St, Rincon, GA 31326",1862.0,1998.0,2.0,0.0,16117.0,-81.222482,32.304938
-231 Waxberry Trl,San Antonio,TX,78256,"231 Waxberry Trl, San Antonio, TX 78256",2766.0,2005.0,2.5,4.0,8146.0,-98.636058,29.649132
-2830 Santa Rita Dr,Grand Prairie,TX,75052,"2830 Santa Rita Dr, Grand Prairie, TX 75052",2229.0,1974.0,3.0,3.0,7749.0,-96.995574,32.702757
-30799 135th St,Unionville,MO,63565,"30799 135th St, Unionville, MO 63565",1200.0,2000.0,2.0,2.0,762300.0,-92.979553,40.535484
-435 Village Green Blvd,Ann Arbor,MI,48105,"435 Village Green Blvd, Apt 101, Ann Arbor, MI 48105",0.0,0.0,0.0,0.0,0.0,-83.671682,42.275455
-11772 Kingfisher Ln E,Jacksonville,FL,32218,"11772 Kingfisher Ln E, Jacksonville, FL 32218",1248.0,1991.0,2.0,3.0,6850.0,-81.671251,30.450013
-7481 W Jeffrey Rd,Tucson,AZ,85757,"7481 W Jeffrey Rd, Tucson, AZ 85757",1531.0,2022.0,2.0,3.0,8027.0,-111.125303,32.125811
-3135 48th Ave S,Saint Petersburg,FL,33712,"3135 48th Ave S, Saint Petersburg, FL 33712",0.0,0.0,0.0,0.0,0.0,-82.675922,27.725152
-70 Upper Rock Cir,Rockville,MD,20850,"70 Upper Rock Cir, Apt 148, Rockville, MD 20850",810.0,0.0,1.0,1.0,0.0,-77.183563,39.112556
-294 Epworth St NW,Concord,NC,28027,"294 Epworth St NW, Concord, NC 28027",728.0,1960.0,1.0,2.0,8276.0,-80.60278,35.408143
-3736 William Way,Sacramento,CA,95821,"3736 William Way, Sacramento, CA 95821",1472.0,1953.0,1.0,3.0,10019.0,-121.375908,38.630611
-1317 N Luzerne Ave,Baltimore,MD,21213,"1317 N Luzerne Ave, Baltimore, MD 21213",0.0,1915.0,1.0,0.0,980.0,-76.58109,39.306301
-602 Albion Ln,Mount Prospect,IL,60056,"602 Albion Ln, Mount Prospect, IL 60056",0.0,0.0,0.0,0.0,0.0,-87.944607,42.083815
-9418 Coffee St,Houston,TX,77033,"9418 Coffee St, Houston, TX 77033",1410.0,1936.0,1.0,3.0,15063.0,-95.353091,29.655105
-8135 Highland Pl,Munster,IN,46321,"8135 Highland Pl, Munster, IN 46321",864.0,1943.0,1.0,2.0,4257.0,-87.519613,41.565231
-1518 Audubon Dr,Savannah,GA,31415,"1518 Audubon Dr, Savannah, GA 31415",1075.0,1959.0,1.0,3.0,7200.0,-81.125837,32.067173
-922 Watervliet Ave,Dayton,OH,45420,"922 Watervliet Ave, Dayton, OH 45420",804.0,1951.0,1.0,2.0,5201.0,-84.138712,39.729203
-4951 W Waltana Way,South Jordan,UT,84009,"4951 W Waltana Way, Unit 211, South Jordan, UT 84009",1002.0,2021.0,2.0,2.0,436.0,-112.008668,40.547579
-7138 Gavin Dr,Indianapolis,IN,46217,"7138 Gavin Dr, Indianapolis, IN 46217",1748.0,2007.0,2.5,3.0,1138.0,-86.201884,39.661332
-4368 W 14th Ln,Yuma,AZ,85364,"4368 W 14th Ln, Yuma, AZ 85364",1964.0,1981.0,2.0,7.0,6488.0,-114.673753,32.701313999999996
-13610 Old Dixie Hwy,Sebastian,FL,32958,"13610 Old Dixie Hwy, Sebastian, FL 32958",3840.0,2006.0,5.0,5.0,15246.0,-80.482557,27.842184
-21214 W Caravaggio Ln,Wittmann,AZ,85361,"21214 W Caravaggio Ln, Wittmann, AZ 85361",1463.0,2000.0,2.0,3.0,53923.0,-112.519385,33.810489
-547 Oak Brook Dr,Augusta,GA,30907,"547 Oak Brook Dr, Augusta, GA 30907",2452.0,1993.0,2.5,4.0,10112.0,-82.08901,33.539659
-1444 Nw 14th Ave,Miami,FL,33125,"1444 Nw 14th Ave, Apt 510, Miami, FL 33125",1146.0,0.0,2.0,2.0,0.0,-80.219692,25.788557
-3956 Nobel Dr,San Diego,CA,92122,"3956 Nobel Dr, Unit 103, San Diego, CA 92122",1203.0,1983.0,2.0,2.0,79459.0,-117.220354,32.868563
-10000 Kempwood Dr,Houston,TX,77080,"10000 Kempwood Dr, Apt 622, Houston, TX 77080",0.0,0.0,0.0,0.0,0.0,-95.539286,29.822767
-3504 E Paris Ave SE,Grand Rapids,MI,49512,"3504 E Paris Ave SE, Apt 203, Grand Rapids, MI 49512",0.0,0.0,0.0,0.0,0.0,-85.567932,42.89996
-16405 Applegate Dr,Fontana,CA,92337,"16405 Applegate Dr, Fontana, CA 92337",1799.0,1995.0,2.5,4.0,3600.0,-117.446979,34.045565
-1901 5th Ave E,Tuscaloosa,AL,35401,"1901 5th Ave E, Unit 3119, Tuscaloosa, AL 35401",1114.0,2007.0,1.0,2.0,0.0,-87.530081,33.193171
-1428 Alma Way,San Jose,CA,95125,"1428 Alma Way, San Jose, CA 95125",1054.0,1984.0,2.0,2.0,436.0,-121.886077,37.308333
-311 Beacon Crest Cir,Birmingham,AL,35209,"311 Beacon Crest Cir, Birmingham, AL 35209",0.0,0.0,0.0,0.0,0.0,-86.80938,33.482339
-171 Carson Dr,Westland,MI,48185,"171 Carson Dr, Westland, MI 48185",1264.0,2003.0,2.0,2.0,0.0,-83.425654,42.309393
-1019 Oak St,Harwich,MA,2645,"1019 Oak St, Harwich, MA 02645",1152.0,1964.0,1.0,4.0,12300.0,-70.080083,41.714614
-5632 N Avondale Ave,Chicago,IL,60646,"5632 N Avondale Ave, Chicago, IL 60646",750.0,1916.0,1.0,2.0,2820.0,-87.785591,41.983497
-360 E 72nd St,New York,NY,10021,"360 E 72nd St, Apt B307, New York, NY 10021",0.0,1963.0,1.0,1.0,0.0,-73.956345,40.76778
-4600 Sw 46th Ct,Ocala,FL,34474,"4600 Sw 46th Ct, Ste 280, Ocala, FL 34474",0.0,0.0,0.0,0.0,0.0,-82.199781,29.140802
-435 Fishel Rd,Winston Salem,NC,27127,"435 Fishel Rd, Winston Salem, NC 27127",1228.0,1947.0,1.0,2.0,32670.0,-80.256628,36.002379
-1022 Church St,Ann Arbor,MI,48104,"1022 Church St, Ann Arbor, MI 48104",0.0,0.0,7.0,7.0,0.0,-83.73462,42.269183
-7525 North Fwy,Houston,TX,77037,"7525 North Fwy, Houston, TX 77037",0.0,0.0,0.0,0.0,0.0,-95.40915,29.871738
-18901 148th Ave,Spring Lake,MI,49456,"18901 148th Ave, Spring Lake, MI 49456",0.0,0.0,0.0,0.0,131116.0,-86.157218,43.112156
-1618 Seven Corner Rd,Perkasie,PA,18944,"1618 Seven Corner Rd, Perkasie, PA 18944",1752.0,1900.0,2.5,3.0,318336.0,-75.270988,40.370705
-2030 Sam Nelson Rd,Canton,GA,30114,"2030 Sam Nelson Rd, Canton, GA 30114",0.0,0.0,0.0,0.0,217800.0,-84.530013,34.27634
-2793 Carmen Dr,Rocky River,OH,44116,"2793 Carmen Dr, Rocky River, OH 44116",1461.0,1957.0,1.5,3.0,8250.0,-81.850909,41.464298
-3629 E Briarwood Ter,Phoenix,AZ,85048,"3629 E Briarwood Ter, Phoenix, AZ 85048",1840.0,1987.0,2.0,3.0,7928.0,-112.004107,33.296988
-2793 Stoney Creek Ln,Montrose,CO,81401,"2793 Stoney Creek Ln, Montrose, CO 81401",1893.0,2000.0,2.0,3.0,7615.0,-107.840581,38.475236
-2609 Wye Ln,North Charleston,SC,29405,"2609 Wye Ln, North Charleston, SC 29405",1254.0,1940.0,1.5,3.0,7841.0,-79.991183,32.8519
-9773 Via,Lake Worth,FL,33467,"9773 Via, Amati, Lake Worth, FL 33467",2920.0,2010.0,3.0,5.0,9858.0,-80.199347,26.567162
-31 E Buckingham Way,Fresno,CA,93704,"31 E Buckingham Way, Fresno, CA 93704",1263.0,1950.0,1.0,3.0,7400.0,-119.812288,36.793367
-2239 Johnson St NE,Minneapolis,MN,55418,"2239 Johnson St NE, Minneapolis, MN 55418",1449.0,1910.0,1.5,3.0,5227.0,-93.236795,45.010776
-7841 Van Zandt Dr,Corpus Christi,TX,78413,"7841 Van Zandt Dr, Corpus Christi, TX 78413",1595.0,1998.0,0.0,0.0,7144.0,-97.404355,27.663292
-7624 Wimpole Dr,New Port Richey,FL,34655,"7624 Wimpole Dr, New Port Richey, FL 34655",1915.0,2004.0,3.0,3.0,4856.0,-82.688388,28.195962
-3315 Post Oak Dr,Colorado Springs,CO,80916,"3315 Post Oak Dr, Colorado Springs, CO 80916",0.0,0.0,0.0,0.0,0.0,-104.741244,38.783866
-3537 Glen Flora Way,Fort Smith,AR,72908,"3537 Glen Flora Way, Fort Smith, AR 72908",1807.0,0.0,2.0,0.0,12150.0,-94.394693,35.291315
-1770 E Maygrass Ln,San Tan Valley,AZ,85140,"1770 E Maygrass Ln, San Tan Valley, AZ 85140",2396.0,2015.0,0.0,0.0,5775.0,-111.546805,33.210796
-601 Paul St,Kissimmee,FL,34741,"601 Paul St, Kissimmee, FL 34741",1486.0,1969.0,2.0,3.0,9888.0,-81.42988,28.297798
-2125 Glebe Ave,Bronx,NY,10462,"2125 Glebe Ave, Apt 1X, Bronx, NY 10462",0.0,0.0,0.0,0.0,0.0,-73.850908,40.835105
-527 S Marion St,Bluffton,IN,46714,"527 S Marion St, Bluffton, IN 46714",1496.0,1970.0,1.5,2.0,3049.0,-85.173859,40.734703
-516 W 109th Pl,Los Angeles,CA,90044,"516 W 109th Pl, Los Angeles, CA 90044",864.0,1925.0,1.0,2.0,5213.0,-118.283304,33.936248
-5849 Webb St,Riverbank,CA,95367,"5849 Webb St, Riverbank, CA 95367",1519.0,2001.0,2.0,3.0,6098.0,-120.953805,37.72404
-462 S Ola Rd,Mcdonough,GA,30252,"462 S Ola Rd, Mcdonough, GA 30252",1886.0,1998.0,2.0,3.0,165310.0,-84.048247,33.424438
-131 Admirals Ridge Dr,Arnold,MD,21012,"131 Admirals Ridge Dr, Arnold, MD 21012",3019.0,2018.0,3.5,0.0,1920.0,-76.505619,39.033078
-108 Lemon Glaze St,Las Vegas,NV,89145,"108 Lemon Glaze St, Unit 203, Las Vegas, NV 89145",1373.0,1998.0,2.0,3.0,3366.0,-115.273753,36.175
-4404 Abby Ct,Cincinnati,OH,45248,"4404 Abby Ct, Cincinnati, OH 45248",2358.0,1992.0,2.5,4.0,28967.0,-84.635256,39.170811
-20 Holly Ln,Roslyn Heights,NY,11577,"20 Holly Ln, Roslyn Heights, NY 11577",2584.0,1948.0,3.0,0.0,10044.0,-73.629706,40.792129
-125 Silver Lake Rd,Staten Island,NY,10301,"125 Silver Lake Rd, Apt 2, Staten Island, NY 10301",0.0,0.0,0.0,0.0,0.0,-74.095063,40.632732
-13263 County Line Rd,Spring Hill,FL,34609,"13263 County Line Rd, Spring Hill, FL 34609",2215.0,1981.0,2.0,3.0,435600.0,-82.503844,28.435562
-1318 Monroe St NE,Minneapolis,MN,55413,"1318 Monroe St NE, Minneapolis, MN 55413",2280.0,1907.0,2.0,4.0,5227.0,-93.252806,45.001546
-11701 Raintree Village Blvd,Temple Terrace,FL,33617,"11701 Raintree Village Blvd, Apt C, Temple Terrace, FL 33617",800.0,1985.0,1.5,1.0,87120.0,-82.388342,28.055473
-86 Summerfield Dr,Holtsville,NY,11742,"86 Summerfield Dr, Holtsville, NY 11742",2062.0,1998.0,2.0,3.0,12197.0,-73.022035,40.808385
-103 Pelsett St,Durham,NC,27703,"103 Pelsett St, Durham, NC 27703",1604.0,2020.0,2.5,3.0,2178.0,-78.820343,35.914395
-1188 Stardust Way,Milpitas,CA,95035,"1188 Stardust Way, Milpitas, CA 95035",1247.0,1969.0,2.0,3.0,5800.0,-121.90855,37.412186
-25 Southfork Rd,Kaw City,OK,74641,"25 Southfork Rd, Kaw City, OK 74641",1216.0,1999.0,2.0,3.0,22608.0,-96.896326,36.761689
-10096 E Carolina Pl,Aurora,CO,80247,"10096 E Carolina Pl, Apt 204, Aurora, CO 80247",1271.0,1999.0,2.0,3.0,871.0,-104.870509,39.690291
-33429 8th St,Union City,CA,94587,"33429 8th St, Union City, CA 94587",1792.0,1948.0,2.0,4.0,5000.0,-122.023962,37.601838
-6602 S Oakes St,Tacoma,WA,98409,"6602 S Oakes St, Tacoma, WA 98409",1144.0,1946.0,1.0,3.0,6000.0,-122.472712,47.197236
-3980 Round Hill Dr,Chesterfield,VA,23832,"3980 Round Hill Dr, Chesterfield, VA 23832",1680.0,1977.0,3.0,3.0,15028.0,-77.532106,37.454694
-20630 Sweetstone Grove Ln,Cypress,TX,77433,"20630 Sweetstone Grove Ln, Cypress, TX 77433",1400.0,2016.0,2.0,3.0,4822.0,-95.723279,29.896432
-14523 W Beaver Dr,Pride,LA,70770,"14523 W Beaver Dr, Pride, LA 70770",0.0,0.0,0.0,0.0,0.0,-91.023779,30.578479
-318 Cypress St,West Newton,PA,15089,"318 Cypress St, West Newton, PA 15089",0.0,0.0,0.0,0.0,40601.0,-79.769159,40.220061
-1654 Manchester St,Richland,WA,99352,"1654 Manchester St, Richland, WA 99352",3175.0,2009.0,2.5,0.0,10633.0,-119.287784,46.232771
-4880 Tuckaway Ct,Clarksville,TN,37043,"4880 Tuckaway Ct, Clarksville, TN 37043",4450.0,2006.0,5.5,4.0,51401.0,-87.1619,36.492271
-5615 Deer Run Ct,North Las Vegas,NV,89031,"5615 Deer Run Ct, North Las Vegas, NV 89031",1700.0,2003.0,2.0,4.0,6098.0,-115.168127,36.262362
-111 Willow Creek Ln,Springtown,TX,76082,"111 Willow Creek Ln, Springtown, TX 76082",1791.0,1979.0,0.0,0.0,87120.0,-97.73611,32.960754
-PO Box 104,Arcata,CA,95518,"PO Box 104, Arcata, CA 95518",0.0,0.0,0.0,0.0,0.0,-124.087,40.8686
-101 Overlook Ct,Easley,SC,29642,"101 Overlook Ct, Easley, SC 29642",3080.0,1997.0,3.5,4.0,0.0,-82.556776,34.790402
-249 Lakeview Dr,Howard,PA,16841,"249 Lakeview Dr, Howard, PA 16841",1920.0,1983.0,2.0,3.0,14820.0,-77.652371,41.008232
-22451 Red Maple Ln,Saint Clair Shores,MI,48080,"22451 Red Maple Ln, Saint Clair Shores, MI 48080",1158.0,1953.0,1.0,3.0,5445.0,-82.897454,42.459839
-8501 87th St,Woodhaven,NY,11421,"8501 87th St, Woodhaven, NY 11421",3199.0,1920.0,0.0,0.0,6050.0,-73.857752,40.695381
-1215 Crucible Rd,Rices Landing,PA,15357,"1215 Crucible Rd, Rices Landing, PA 15357",0.0,0.0,1.0,2.0,36155.0,-79.993762,39.940578
-511 Hillock Ct NW,Isanti,MN,55040,"511 Hillock Ct NW, Isanti, MN 55040",856.0,1985.0,1.0,3.0,40511.0,-93.254314,45.495809
-13053 Quade Ln,Woodbridge,VA,22193,"13053 Quade Ln, Woodbridge, VA 22193",4364.0,2004.0,4.5,5.0,31760.0,-77.356005,38.672297
-1000 10th St,Irwin,PA,15642,"1000 10th St, Irwin, PA 15642",0.0,1955.0,2.0,3.0,11832.0,-79.700034,40.324497
-99 10th Ave,Bluffton,SC,29910,"99 10th Ave, Bluffton, SC 29910",2045.0,2006.0,2.5,1.0,5227.0,-80.865252,32.247708
-11105 Main St NE,Donald,OR,97020,"11105 Main St NE, Unit 40, Donald, OR 97020",1836.0,2011.0,2.0,3.0,0.0,-122.832233,45.221445
-2841 Nw 70th St,Seattle,WA,98117,"2841 Nw 70th St, Seattle, WA 98117",2630.0,1910.0,3.0,3.0,5000.0,-122.394847,47.67924
-4901 S 71st St,Lincoln,NE,68516,"4901 S 71st St, Lincoln, NE 68516",2919.0,1989.0,1.0,4.0,9362.0,-96.623795,40.764356
-1550 N Wieland St,Chicago,IL,60610,"1550 N Wieland St, Apt 308, Chicago, IL 60610",0.0,0.0,2.0,2.0,0.0,-87.635874,41.91096
-1529 Holley St,Augusta,GA,30901,"1529 Holley St, Augusta, GA 30901",1249.0,1906.0,1.0,3.0,6098.0,-81.990384,33.461403
-1606 Marshall Ave,Waco,TX,76708,"1606 Marshall Ave, Waco, TX 76708",1090.0,1950.0,1.0,3.0,6199.0,-97.166119,31.576814
-8029 Helmsdale Dr,Sacramento,CA,95828,"8029 Helmsdale Dr, Sacramento, CA 95828",1225.0,1985.0,2.0,3.0,5689.0,-121.37869,38.465899
-2018 Hathcox St,Mobile,AL,36617,"2018 Hathcox St, Mobile, AL 36617",820.0,1985.0,1.0,0.0,0.0,-88.087988,30.706438
-6759 W Forest Preserve Ave,Chicago,IL,60634,"6759 W Forest Preserve Ave, Apt 210, Chicago, IL 60634",1113.0,2005.0,2.0,2.0,30917.0,-87.796409,41.959126
-3313 Sedona Ln,Plano,TX,75025,"3313 Sedona Ln, Plano, TX 75025",3435.0,1999.0,3.0,4.0,0.0,-96.756709,33.108311
-893 Forestglen Dr,Bozeman,MT,59718,"893 Forestglen Dr, Apt F, Bozeman, MT 59718",1307.0,2004.0,2.0,3.0,0.0,-111.117477,45.689035
-15 Rockingham Dr,Hampton,VA,23669,"15 Rockingham Dr, Hampton, VA 23669",2348.0,2007.0,3.5,4.0,3964.0,-76.390875,37.025328
-1236 Myrick Rd,Mount Pleasant,SC,29464,"1236 Myrick Rd, Mount Pleasant, SC 29464",1956.0,1999.0,2.0,3.0,18731.0,-79.854907,32.79823
-312 Hollywood Ave,Villas,NJ,8251,"312 Hollywood Ave, Villas, NJ 08251",1088.0,1978.0,0.0,0.0,5001.0,-74.949961,39.009092
-4820 Gatewood Rd,Garland,TX,75043,"4820 Gatewood Rd, Garland, TX 75043",975.0,1982.0,1.0,2.0,130680.0,-96.608303,32.856366
-20438 S Cobble Stone Ct,Frankfort,IL,60423,"20438 S Cobble Stone Ct, Frankfort, IL 60423",1841.0,1990.0,2.0,3.0,12197.0,-87.798556,41.517984
-125 Quarterdeck Mall,Marina Del Rey,CA,90292,"125 Quarterdeck Mall, Marina Del Rey, CA 90292",3014.0,1985.0,4.0,4.0,2888.0,-118.457315,33.971286
-910 N Center St,Mesa,AZ,85201,"910 N Center St, Unit 2, Mesa, AZ 85201",1046.0,1975.0,2.0,0.0,2012.0,-111.831855,33.431893
-130 N B St,Exeter,CA,93221,"130 N B St, Apt B, Exeter, CA 93221",0.0,0.0,0.0,0.0,0.0,-119.137854,36.298198
-1605 W Fargo Ave,Chicago,IL,60626,"1605 W Fargo Ave, Apt 2, Chicago, IL 60626",0.0,0.0,0.0,0.0,0.0,-87.670583,42.016731
-Montezuma Well Rd,Tubac,AZ,85646,"Montezuma Well Rd, Unit 162/5, Tubac, AZ 85646",0.0,0.0,0.0,0.0,2177129.0,-110.852869,31.548869
-1307 Jacqueline Dr,Pomona,CA,91768,"1307 Jacqueline Dr, Apt B, Pomona, CA 91768",0.0,0.0,0.0,0.0,0.0,-117.775162,34.071233
-2821 S Bayshore Dr,Miami,FL,33133,"2821 S Bayshore Dr, Unit 11C, Miami, FL 33133",1954.0,2018.0,2.5,2.0,0.0,-80.238559,25.729375
-104 Charmont Dr,Columbia,SC,29223,"104 Charmont Dr, Columbia, SC 29223",1008.0,1985.0,1.0,3.0,0.0,-80.933619,34.101522
-14308 Iveans Way,Austin,TX,78717,"14308 Iveans Way, Austin, TX 78717",3509.0,2017.0,3.5,0.0,0.0,-97.752164,30.48722
-111 Garwood Dr,Bear,DE,19701,"111 Garwood Dr, Bear, DE 19701",3125.0,1974.0,3.0,3.0,23958.0,-75.66005,39.613659
-7445 Grand Oaks Dr,Lincoln,NE,68516,"7445 Grand Oaks Dr, Lincoln, NE 68516",2512.0,1990.0,5.0,3.0,10454.0,-96.618651,40.758726
-176 Provonce Park,Brandon,MS,39042,"176 Provonce Park, Brandon, MS 39042",2168.0,2013.0,1.0,3.0,7841.0,-89.978776,32.250691
-608 N Ericson Rd,Cordova,TN,38018,"608 N Ericson Rd, Cordova, TN 38018",1490.0,1997.0,2.5,3.0,3485.0,-89.774882,35.141637
-555 Central Parkway Rd,Woodstock,IL,60098,"555 Central Parkway Rd, Apt B, Woodstock, IL 60098",1180.0,0.0,1.0,2.0,0.0,-88.439566,42.338676
-Poplar Lane,Bloomingdale,NY,12913,"Poplar Lane, ` Lot 24, Bloomingdale, NY 12913",0.0,0.0,0.0,0.0,8712.0,-74.09426,44.409598
-107 Whispering Pines Ln,Huntersville,NC,28078,"107 Whispering Pines Ln, Huntersville, NC 28078",1004.0,1986.0,1.0,3.0,8777.0,-80.836986,35.405222
-2901 Nw 186th Ter,Miami Gardens,FL,33056,"2901 Nw 186th Ter, Miami Gardens, FL 33056",1742.0,1960.0,2.0,3.0,13370.0,-80.249229,25.943961
-5905 S Kings Hwy,Myrtle Beach,SC,29575,"5905 S Kings Hwy, Unit 4216D, Myrtle Beach, SC 29575",736.0,1985.0,2.0,2.0,0.0,-78.953962,33.630061
-525 Dexter St,Toledo,OH,43608,"525 Dexter St, Toledo, OH 43608",966.0,1912.0,1.0,3.0,4000.0,-83.532979,41.677299
-3904 Rugby Dr,Toledo,OH,43614,"3904 Rugby Dr, Toledo, OH 43614",1398.0,1927.0,1.0,3.0,6000.0,-83.610912,41.596064
-PO Box 2412,Ponca City,OK,74602,"PO Box 2412, Ponca City, OK 74602",0.0,0.0,0.0,0.0,0.0,-97.0798,36.7036
-429 Friar Tuck Cir,Smyrna,TN,37167,"429 Friar Tuck Cir, Smyrna, TN 37167",0.0,0.0,0.0,0.0,0.0,-86.520247,35.955326
-4 Glenridge Dr,Littleton,CO,80123,"4 Glenridge Dr, Littleton, CO 80123",2420.0,1974.0,3.0,4.0,26005.0,-105.049181,39.595888
-1325 Charleston Blvd,Tupelo,MS,38801,"1325 Charleston Blvd, Tupelo, MS 38801",2902.0,2012.0,2.0,4.0,30492.0,-88.782507,34.27304
-9060 N Yellow Moon Dr,Tucson,AZ,85743,"9060 N Yellow Moon Dr, Tucson, AZ 85743",1869.0,1996.0,3.0,0.0,5760.0,-111.12595,32.371063
-110 E Valley View Dr,Phoenix,AZ,85042,"110 E Valley View Dr, Phoenix, AZ 85042",2345.0,2004.0,3.0,4.0,5567.0,-112.071986,33.36634
-49 Barbara St,Springvale,ME,4083,"49 Barbara St, Springvale, ME 04083",1160.0,1982.0,1.0,3.0,13650.0,-70.789701,43.470487
-11710 Forest Hills Dr,Tampa,FL,33612,"11710 Forest Hills Dr, Tampa, FL 33612",2196.0,1966.0,3.0,3.0,20000.0,-82.469843,28.055639
-1221 Bobby Dr,Donna,TX,78537,"1221 Bobby Dr, Donna, TX 78537",1596.0,1988.0,2.0,3.0,6978.0,-98.055255,26.12964
-8407 Wium St,Cary,IL,60013,"8407 Wium St, Cary, IL 60013",2182.0,1964.0,3.0,4.0,19283.0,-88.203215,42.207399
-43810 Palm Vista Ave,Lancaster,CA,93535,"43810 Palm Vista Ave, Lancaster, CA 93535",1521.0,1987.0,2.0,3.0,5700.0,-118.108194,34.679333
-13 Delaware Rd,Newburgh,NY,12550,"13 Delaware Rd, Newburgh, NY 12550",1316.0,1957.0,1.5,4.0,12458.0,-74.089127,41.533689
-312 Etowah Valley Trce,Woodstock,GA,30189,"312 Etowah Valley Trce, Woodstock, GA 30189",2150.0,1993.0,3.5,4.0,15154.0,-84.562315,34.105743
-5 Windward Dr,Niantic,CT,6357,"5 Windward Dr, Niantic, CT 06357",2842.0,2006.0,2.5,4.0,0.0,-72.227233,41.315829
-6103 Delollis Dr,Grand Prairie,TX,75052,"6103 Delollis Dr, Grand Prairie, TX 75052",3185.0,2002.0,2.5,4.0,7579.0,-97.065718,32.626926
-721 S 19th St,Lincoln,NE,68510,"721 S 19th St, Lincoln, NE 68510",1262.0,1900.0,2.5,3.0,3049.0,-96.693911,40.806392
-2000 S Bannock St,Denver,CO,80223,"2000 S Bannock St, Denver, CO 80223",824.0,1909.0,1.0,2.0,6250.0,-104.989654,39.68016
-2802 San Augustine Ave,Pasadena,TX,77503,"2802 San Augustine Ave, Pasadena, TX 77503",0.0,0.0,0.0,0.0,0.0,-95.171582,29.688395
-3436 Broadview Rd,Cleveland,OH,44109,"3436 Broadview Rd, Cleveland, OH 44109",1432.0,1890.0,1.5,3.0,4440.0,-81.706053,41.44236
-695 Fox Mountain Cir,Dahlonega,GA,30533,"695 Fox Mountain Cir, Dahlonega, GA 30533",336.0,1998.0,0.0,0.0,62726.0,-83.966029,34.449833
-6633 W Airport Blvd,Houston,TX,77035,"6633 W Airport Blvd, Apt 409, Houston, TX 77035",1036.0,1981.0,1.5,1.0,0.0,-95.505992,29.642671
-444 Maple Ave,Sheffield Lake,OH,44054,"444 Maple Ave, Sheffield Lake, OH 44054",1685.0,1977.0,2.0,4.0,17424.0,-82.081276,41.492901
-1107 Gibbs Ct,Medford,OR,97501,"1107 Gibbs Ct, Medford, OR 97501",1372.0,2001.0,2.0,3.0,5663.0,-122.888434,42.309112999999996
-523 W Country Club Rd,Chickasha,OK,73018,"523 W Country Club Rd, Chickasha, OK 73018",2017.0,1978.0,2.0,3.0,174240.0,-97.937977,35.014071
-10 Evening Star Dr,Clancy,MT,59634,"10 Evening Star Dr, Clancy, MT 59634",2189.0,1977.0,1.5,2.0,44867.0,-111.912157,46.520467
-3641 Delford Cir,Dallas,TX,75228,"3641 Delford Cir, Dallas, TX 75228",1652.0,1959.0,2.0,3.0,11657.0,-96.65701,32.843132
-19519 39th Ave,Flushing,NY,11358,"19519 39th Ave, Flushing, NY 11358",1332.0,1950.0,0.0,0.0,1710.0,-73.786558,40.762367
-18914 Quencer Rd,Saint Albans,NY,11412,"18914 Quencer Rd, Saint Albans, NY 11412",1832.0,1920.0,0.0,0.0,5000.0,-73.764029,40.695267
-5 Pine St,Windsor,NY,13865,"5 Pine St, Windsor, NY 13865",2000.0,0.0,2.0,4.0,21344.0,-75.64233,42.073662
-1180 Northview Ln,Rochester Hills,MI,48307,"1180 Northview Ln, Rochester Hills, MI 48307",0.0,0.0,0.0,0.0,0.0,-83.144735,42.665124
-6922 Mary Caroline Cir,Alexandria,VA,22310,"6922 Mary Caroline Cir, Unit A, Alexandria, VA 22310",951.0,1988.0,2.0,2.0,0.0,-77.145668,38.766588
-3917 N Franklin St,Philadelphia,PA,19140,"3917 N Franklin St, Philadelphia, PA 19140",1200.0,1940.0,1.0,3.0,945.0,-75.140178,40.011428
-831 W Firelight Dr,Saint George,UT,84790,"831 W Firelight Dr, Saint George, UT 84790",1698.0,2022.0,2.0,3.0,6970.0,-113.601152,37.011812
-12525 Craig Ave,Grandview,MO,64030,"12525 Craig Ave, Grandview, MO 64030",1573.0,1972.0,2.0,3.0,11326.0,-94.514533,38.895815999999996
-140 Seton Dr,Verona,PA,15147,"140 Seton Dr, Verona, PA 15147",1238.0,1955.0,2.0,3.0,5625.0,-79.830576,40.492416
-3439 Sagewood Ln,San Jose,CA,95132,"3439 Sagewood Ln, San Jose, CA 95132",1372.0,1970.0,2.0,4.0,5995.0,-121.8609,37.415029
-704 Monroe St,Stuyvesant Hts,NY,11221,"704 Monroe St, Stuyvesant Hts, NY 11221",1594.0,1899.0,1.0,3.0,1992.0,-73.928526,40.687771
-1120 Venetian Way,Miami,FL,33139,"1120 Venetian Way, Apt 2A, Miami, FL 33139",697.0,1949.0,1.0,1.0,0.0,-80.172648,25.789654
-1020 Thomas St,Key West,FL,33040,"1020 Thomas St, Key West, FL 33040",560.0,1923.0,2.0,2.0,2564.0,-81.801154,24.548985
-3226 Bell St,Sacramento,CA,95821,"3226 Bell St, Apt 20, Sacramento, CA 95821",0.0,0.0,0.0,0.0,0.0,-121.41018,38.624544
-PO Box 465688,Lawrenceville,GA,30042,"PO Box 465688, Lawrenceville, GA 30042",0.0,0.0,0.0,0.0,0.0,-84.0306,33.9151
-1517 N Newhope St,Santa Ana,CA,92703,"1517 N Newhope St, Spc 55, Santa Ana, CA 92703",0.0,0.0,0.0,0.0,0.0,-117.927775,33.758531
-392 Fallis Rd,Columbus,OH,43214,"392 Fallis Rd, Columbus, OH 43214",1471.0,1940.0,1.5,3.0,7623.0,-83.006876,40.039063
-2196 Scio Rd SW,Carrollton,OH,44615,"2196 Scio Rd SW, Carrollton, OH 44615",1680.0,1900.0,2.0,4.0,49223.0,-81.108378,40.537399
-700 Carolina Mdws,Chapel Hill,NC,27517,"700 Carolina Mdws, Apt 214, Chapel Hill, NC 27517",0.0,0.0,0.0,0.0,0.0,-79.049429,35.88974
-8937 Tweeddale Dr,Winston,GA,30187,"8937 Tweeddale Dr, Winston, GA 30187",1482.0,1987.0,3.0,3.0,19508.0,-84.867954,33.597394
-1728 N Aberdeen St,Philadelphia,PA,19131,"1728 N Aberdeen St, Philadelphia, PA 19131",1048.0,1925.0,1.0,3.0,880.0,-75.227426,39.981045
-22532 Euclid St,Saint Clair Shores,MI,48082,"22532 Euclid St, Saint Clair Shores, MI 48082",968.0,1958.0,1.5,3.0,6970.0,-82.88651,42.528003
-1136 Theo Way,Sacramento,CA,95822,"1136 Theo Way, Sacramento, CA 95822",1856.0,1963.0,2.0,3.0,10019.0,-121.51398,38.533
-11252 Bainbridge Ave,Baton Rouge,LA,70817,"11252 Bainbridge Ave, Baton Rouge, LA 70817",1410.0,1983.0,2.0,3.0,9583.0,-90.994028,30.349316
-502 Chamonix Ave S,Lehigh Acres,FL,33974,"502 Chamonix Ave S, Lehigh Acres, FL 33974",1625.0,2008.0,2.0,3.0,20630.0,-81.617876,26.570039
-1468 Sedalia Dr,Flower Mound,TX,75028,"1468 Sedalia Dr, Flower Mound, TX 75028",2019.0,1986.0,2.0,3.0,9021.0,-97.050952,33.051613
-9116 Lawler Ave,Skokie,IL,60077,"9116 Lawler Ave, Apt 2, Skokie, IL 60077",0.0,0.0,0.0,0.0,0.0,-87.752941,42.04711
-44 Kennedy St,Charleston,SC,29403,"44 Kennedy St, Charleston, SC 29403",1330.0,1935.0,1.0,3.0,2614.0,-79.95111,32.791399
-1820 Memorial Dr,Clarksville,TN,37043,"1820 Memorial Dr, Ste 101, Clarksville, TN 37043",150.0,0.0,0.0,0.0,0.0,-87.306534,36.519138
-1108 Nueces St,Austin,TX,78701,"1108 Nueces St, Unit 201, Austin, TX 78701",1080.0,2022.0,2.0,3.0,10999.0,-97.746776,30.275083
-408 Bond St,Washington,PA,15301,"408 Bond St, Washington, PA 15301",2300.0,1997.0,2.5,3.0,56497.0,-80.283828,40.111371
-14420 Long Ave,Midlothian,IL,60445,"14420 Long Ave, Midlothian, IL 60445",3477.0,1983.0,3.5,5.0,23100.0,-87.752681,41.629932
-2460 N Fairhill St,Philadelphia,PA,19133,"2460 N Fairhill St, Philadelphia, PA 19133",1106.0,1915.0,1.0,3.0,847.0,-75.142408,39.989063
-117 E Glebe Rd,Alexandria,VA,22305,"117 E Glebe Rd, Apt C, Alexandria, VA 22305",600.0,1939.0,1.0,1.0,0.0,-77.055779,38.834599
-15730 Morrison St,Encino,CA,91436,"15730 Morrison St, Encino, CA 91436",2734.0,2003.0,3.0,5.0,6750.0,-118.475997,34.160534
-7738 Claridge,San Antonio,TX,78250,"7738 Claridge, San Antonio, TX 78250",2278.0,1995.0,2.5,4.0,5837.0,-98.68681,29.515896
-PO Box 4074,Olympia,WA,98501,"PO Box 4074, Olympia, WA 98501",0.0,0.0,0.0,0.0,0.0,-122.874985,46.983655
-3051 Leslie Ln,Yadkinville,NC,27055,"3051 Leslie Ln, Yadkinville, NC 27055",3597.0,2007.0,3.0,4.0,54014.0,-80.574528,36.122734
-102 Spring St,Durham,NC,27703,"102 Spring St, Durham, NC 27703",0.0,0.0,0.0,0.0,24829.0,-78.853455,35.96881
-3105 N 127th Ave,Avondale,AZ,85392,"3105 N 127th Ave, Avondale, AZ 85392",2552.0,2001.0,3.0,4.0,10031.0,-112.332095,33.481999
-96 S Andrew St,Nampa,ID,83651,"96 S Andrew St, Nampa, ID 83651",2911.0,1981.0,4.5,5.0,10454.0,-116.591141,43.56903
-1178 Peachtree Dr,Mount Morris,MI,48458,"1178 Peachtree Dr, Mount Morris, MI 48458",0.0,1962.0,2.0,3.0,6534.0,-83.70086,43.091369
-1141 Castle Pines Ct,Reunion,FL,34747,"1141 Castle Pines Ct, Reunion, FL 34747",3767.0,2017.0,5.5,6.0,4879.0,-81.606659,28.273966
-9621 Heartwood Dr,Denton,TX,76207,"9621 Heartwood Dr, Denton, TX 76207",1760.0,0.0,2.0,2.0,4783.0,-97.230131,33.133978
-5030 Sunset Trl,Cumming,GA,30040,"5030 Sunset Trl, Cumming, GA 30040",1961.0,1995.0,2.5,4.0,20038.0,-84.209614,34.139897
-1489 Tuttle Ave,Wallingford,CT,6492,"1489 Tuttle Ave, Wallingford, CT 06492",1034.0,1958.0,1.5,3.0,24960.0,-72.872088,41.464161
-207 E 31st St,Chicago,IL,60616,"207 E 31st St, Apt 4G, Chicago, IL 60616",0.0,0.0,0.0,0.0,0.0,-87.621533,41.838089
-8513 W Oak Pl,Vienna,VA,22182,"8513 W Oak Pl, Vienna, VA 22182",3084.0,1984.0,2.5,4.0,8599.0,-77.238014,38.909295
-1531 Robins Nest Dr,Asheboro,NC,27203,"1531 Robins Nest Dr, Asheboro, NC 27203",2040.0,2022.0,2.5,4.0,23522.0,-79.785221,35.741493
-PO Box 1583,Great Bend,KS,67530,"PO Box 1583, Great Bend, KS 67530",0.0,0.0,0.0,0.0,0.0,-98.793108,38.358619
-202 W 35th St,Savannah,GA,31401,"202 W 35th St, Savannah, GA 31401",2330.0,1900.0,2.0,4.0,2431.0,-81.101803,32.05959
-8818 Orchard Tree Ln,Towson,MD,21286,"8818 Orchard Tree Ln, Towson, MD 21286",0.0,0.0,0.0,0.0,0.0,-76.57021,39.398474
-9518 Paintbrush Ledge Ln,Houston,TX,77089,"9518 Paintbrush Ledge Ln, Houston, TX 77089",2199.0,2004.0,2.0,4.0,7065.0,-95.237308,29.575839
-10125 Maraldo Pl,Saint Louis,MO,63137,"10125 Maraldo Pl, Saint Louis, MO 63137",1026.0,1964.0,1.5,3.0,8294.0,-90.221349,38.753201
-25225 Rampart Blvd,Punta Gorda,FL,33983,"25225 Rampart Blvd, Apt 1104, Punta Gorda, FL 33983",886.0,1984.0,2.0,2.0,1008.0,-82.033328,26.999486
-4219 Westcreek Ln,Sachse,TX,75048,"4219 Westcreek Ln, Sachse, TX 75048",2692.0,2001.0,2.5,4.0,14473.0,-96.593754,32.963965
-141 Lily Dr,Maumelle,AR,72113,"141 Lily Dr, Maumelle, AR 72113",2302.0,2000.0,2.0,0.0,10890.0,-92.420477,34.851665
-2990 W C St,Greeley,CO,80631,"2990 W C St, Unit 63204, Greeley, CO 80631",1070.0,2006.0,2.0,2.0,610.0,-104.729429,40.436769
-869 Terrace Dr,Los Altos,CA,94024,"869 Terrace Dr, Los Altos, CA 94024",2989.0,1975.0,3.5,5.0,11800.0,-122.08995,37.346468
-10129 E Clinton St,Scottsdale,AZ,85260,"10129 E Clinton St, Scottsdale, AZ 85260",3053.0,1983.0,3.0,5.0,10350.0,-111.862686,33.583662
-1017 Cyperts Trl,Winder,GA,30680,"1017 Cyperts Trl, Winder, GA 30680",2724.0,2004.0,2.5,4.0,26770.0,-83.797677,34.057995
-771 Beacon St,Boston,MA,2215,"771 Beacon St, # B2-916, Boston, MA 02215",692.0,0.0,1.0,1.0,0.0,-71.101097,42.347378
-3077 Primrose Ln,Fullerton,CA,92833,"3077 Primrose Ln, Fullerton, CA 92833",1720.0,1992.0,2.5,3.0,0.0,-117.983087,33.896703
-1959 Helm Ct,Worden,IL,62097,"1959 Helm Ct, Worden, IL 62097",1652.0,0.0,2.0,3.0,0.0,-89.930032,38.929191
-1644 Loganberry Way,Pleasanton,CA,94566,"1644 Loganberry Way, Pleasanton, CA 94566",2523.0,1965.0,2.5,4.0,7443.0,-121.878954,37.671168
-1720 E Elm St,Cottonwood,AZ,86326,"1720 E Elm St, Ofc, Cottonwood, AZ 86326",0.0,0.0,0.0,0.0,0.0,-112.007343,34.72242
-108 Cedar Heights Dr,Palestine,TX,75803,"108 Cedar Heights Dr, Palestine, TX 75803",1215.0,1966.0,0.0,0.0,10206.0,-95.671438,31.737022
-8667 Flounder Dr,Lincoln,DE,19960,"8667 Flounder Dr, Lincoln, DE 19960",0.0,0.0,0.0,0.0,0.0,-75.358141,38.868733
-122 N Cranberry St,Elkhorn,WI,53121,"122 N Cranberry St, Elkhorn, WI 53121",2300.0,0.0,2.0,3.0,10019.0,-88.562907,42.675001
-3123 41st St,San Diego,CA,92105,"3123 41st St, San Diego, CA 92105",1196.0,1923.0,1.5,2.0,6772.0,-117.106676,32.738888
-220 Muskwink Dr,Pocono Lake,PA,18347,"220 Muskwink Dr, Pocono Lake, PA 18347",1293.0,1990.0,2.0,3.0,11761.0,-75.580334,41.170576
-3101 Kirklevington Dr,Lexington,KY,40517,"3101 Kirklevington Dr, Apt 230, Lexington, KY 40517",1178.0,1995.0,2.5,2.0,2208.0,-84.500409,37.988237
-626 Ne 44th St,Kansas City,MO,64116,"626 Ne 44th St, Kansas City, MO 64116",1012.0,1940.0,1.0,2.0,6534.0,-94.572962,39.174467
-367 1st St,Troy,NY,12180,"367 1st St, Troy, NY 12180",2304.0,1890.0,2.0,6.0,3049.0,-73.69619,42.716544
-9 Dorey Way,Monterey,CA,93940,"9 Dorey Way, Monterey, CA 93940",2868.0,1962.0,3.0,3.0,25132.0,-121.908279,36.593762
-1445 Bahia Ave,Orlando,FL,32807,"1445 Bahia Ave, Orlando, FL 32807",989.0,1959.0,1.0,2.0,8468.0,-81.313834,28.526141
-5907 Saratoga Springs Ln,Houston,TX,77041,"5907 Saratoga Springs Ln, Houston, TX 77041",2927.0,2003.0,3.5,4.0,11779.0,-95.596176,29.857443
-10349 W Amelia Ave,Avondale,AZ,85392,"10349 W Amelia Ave, Avondale, AZ 85392",1949.0,1999.0,2.0,4.0,7187.0,-112.281909,33.4922
-2633 Galpin Ave,Royal Oak,MI,48073,"2633 Galpin Ave, Royal Oak, MI 48073",600.0,1955.0,1.0,1.0,13504.0,-83.16368,42.512711
-315 Lisa Ct,Stockton,CA,95210,"315 Lisa Ct, Stockton, CA 95210",2500.0,1974.0,2.0,4.0,7150.0,-121.307828,38.023615
-400 Ivy Ave,Waco,TX,76706,"400 Ivy Ave, Apt 149, Waco, TX 76706",0.0,0.0,0.0,0.0,0.0,-97.112712,31.542193
-2712 Indian Springs Dr,Harrah,OK,73045,"2712 Indian Springs Dr, Harrah, OK 73045",1960.0,1985.0,2.0,3.0,43560.0,-97.186505,35.438528
-11150 Glenoaks Blvd,Pacoima,CA,91331,"11150 Glenoaks Blvd, Unit 113, Pacoima, CA 91331",642.0,1989.0,1.0,1.0,85322.0,-118.409027,34.2736
-15954 Manor Club Dr,Milton,GA,30004,"15954 Manor Club Dr, Lot 316, Milton, GA 30004",0.0,0.0,0.0,0.0,116305.0,-84.26252,34.169598
-1520 Geneva St,Dearborn,MI,48124,"1520 Geneva St, Dearborn, MI 48124",1163.0,1949.0,1.0,3.0,4792.0,-83.26605,42.298259
-2111 Mill Garden Dr,Fredericksburg,VA,22407,"2111 Mill Garden Dr, Fredericksburg, VA 22407",820.0,0.0,2.0,4.0,10454.0,-77.527813,38.240816
-5100 Blackwood Dr,Mckinney,TX,75071,"5100 Blackwood Dr, Mckinney, TX 75071",3170.0,2005.0,3.0,5.0,6098.0,-96.682729,33.238137
-1209 Costa Azul Ct,Southlake,TX,76092,"1209 Costa Azul Ct, Southlake, TX 76092",6666.0,2007.0,5.0,5.0,43560.0,-97.125727,32.95674
-9773 Webb Chapel Rd,Dallas,TX,75220,"9773 Webb Chapel Rd, Apt 2017, Dallas, TX 75220",0.0,0.0,0.0,0.0,0.0,-96.864812,32.867896
-116 Oakham Rd,Barre,MA,1005,"116 Oakham Rd, Barre, MA 01005",946.0,1972.0,1.0,2.0,1778555.0,-72.104919,42.374663
-14231 W 156th Ter,Olathe,KS,66062,"14231 W 156th Ter, Olathe, KS 66062",3339.0,2003.0,4.0,5.0,15081.0,-94.750354,38.845497
-4702 Foxfire Trl,Portage,MI,49024,"4702 Foxfire Trl, Portage, MI 49024",1171.0,1982.0,2.0,2.0,0.0,-85.646224,42.244576
-9163 Solvista Pass Ln,Houston,TX,77070,"9163 Solvista Pass Ln, Houston, TX 77070",1644.0,2008.0,2.5,2.0,2374.0,-95.562394,30.00384
-335 Woods Ln,Mcdonough,GA,30252,"335 Woods Ln, Mcdonough, GA 30252",3017.0,1996.0,3.0,3.0,32383.0,-84.124985,33.556432
-7064 Cambridge Dr,Flushing,MI,48433,"7064 Cambridge Dr, Flushing, MI 48433",1324.0,2017.0,2.0,2.0,0.0,-83.816189,43.04949
-751 Churchill Rd,Girard,OH,44420,"751 Churchill Rd, Apt 6, Girard, OH 44420",0.0,0.0,0.0,0.0,0.0,-80.684457,41.161799
-12500 Briarwood Ter,Hopkins,MN,55343,"12500 Briarwood Ter, Hopkins, MN 55343",3036.0,1970.0,3.0,3.0,23522.0,-93.437409,44.923933
-1402 Willow Heights Dr,Irwin,PA,15642,"1402 Willow Heights Dr, Irwin, PA 15642",3002.0,2007.0,0.0,0.0,12272.0,-79.757172,40.330848
-507 Connelly Springs Rd SW,Lenoir,NC,28645,"507 Connelly Springs Rd SW, Lenoir, NC 28645",792.0,1947.0,1.0,2.0,20882.0,-81.52723,35.88696
-1715 Acacia,Alhambra,CA,91801,"1715 Acacia, Apt A, Alhambra, CA 91801",1361.0,2005.0,2.0,3.0,19998.0,-118.142611,34.090447
-729 Kissimmee Pl,Winter Springs,FL,32708,"729 Kissimmee Pl, Winter Springs, FL 32708",1733.0,1986.0,2.0,3.0,6558.0,-81.279108,28.652493
-941 N Sierra Bonita Ave,West Hollywood,CA,90046,"941 N Sierra Bonita Ave, West Hollywood, CA 90046",0.0,0.0,2.0,2.0,0.0,-118.35459,34.088459
-116 Springview,Fraser,CO,80442,"116 Springview, Unit C302, Fraser, CO 80442",1289.0,2021.0,2.0,2.0,0.0,-105.807827,39.940224
-6 Bayview Ave,Little Neck,NY,11363,"6 Bayview Ave, Little Neck, NY 11363",2904.0,1950.0,2.0,3.0,8000.0,-73.752112,40.781108
-156 Aquaticview Way,Savannah,TN,38372,"156 Aquaticview Way, Unit B, Savannah, TN 38372",0.0,1999.0,2.5,3.0,0.0,-88.255433,35.232836
-804 Aspenridge,Springdale,AR,72764,"804 Aspenridge, Springdale, AR 72764",0.0,0.0,0.0,0.0,0.0,-94.122821,36.165109
-926 Amberly Dr,Norcross,GA,30093,"926 Amberly Dr, Apt C, Norcross, GA 30093",1400.0,0.0,3.0,2.0,0.0,-84.167178,33.900434
-1335 Lebanon Ave,Belleville,IL,62221,"1335 Lebanon Ave, Belleville, IL 62221",864.0,1925.0,1.5,1.0,6534.0,-89.967751,38.531627
-3220 Church St,Jackson,LA,70748,"3220 Church St, Jackson, LA 70748",3191.0,1960.0,3.5,4.0,37462.0,-91.215798,30.838419
-2806 Monterra Dr,Spring Grove,IL,60081,"2806 Monterra Dr, Spring Grove, IL 60081",1761.0,1990.0,0.0,0.0,28868.0,-88.248855,42.456284
-1837 Leon Rd,Jacksonville,FL,32246,"1837 Leon Rd, Jacksonville, FL 32246",1434.0,1958.0,2.0,3.0,9374.0,-81.537428,30.317832
-3082 Lake Shore Dr,Deerfield Beach,FL,33442,"3082 Lake Shore Dr, Deerfield Beach, FL 33442",1764.0,1985.0,2.0,3.0,4344.0,-80.146176,26.322602
-12209 Jamieson Pl,Glen Allen,VA,23059,"12209 Jamieson Pl, Glen Allen, VA 23059",2888.0,2001.0,2.5,4.0,13271.0,-77.614274,37.68736
-17 Old Mission Ave,Saint Augustine,FL,32084,"17 Old Mission Ave, Saint Augustine, FL 32084",1050.0,0.0,1.0,2.0,0.0,-81.31881,29.903909
-233 Carpenter St,Reading,PA,19602,"233 Carpenter St, Reading, PA 19602",802.0,1900.0,1.0,2.0,1307.0,-75.930755,40.331266
-1920 E Hines Hill Rd,Hudson,OH,44236,"1920 E Hines Hill Rd, Hudson, OH 44236",4468.0,1988.0,5.0,4.0,242629.0,-81.445232,41.263401
-3505 Sloan St,Kinston,NC,28504,"3505 Sloan St, Kinston, NC 28504",837.0,1954.0,1.0,2.0,7405.0,-77.628218,35.269236
-3927 Falcon Ridge Dr,Medina,OH,44256,"3927 Falcon Ridge Dr, Medina, OH 44256",2140.0,2006.0,3.0,3.0,3049.0,-81.819887,41.149845
-976 Lindsley Dr,Virginia Beach,VA,23454,"976 Lindsley Dr, Virginia Beach, VA 23454",2038.0,1963.0,2.0,4.0,19814.0,-76.02325,36.861297
-28 Virginia Dr,Liberty,MO,64068,"28 Virginia Dr, Liberty, MO 64068",1236.0,1960.0,2.5,3.0,11326.0,-94.433035,39.247294
-2717 Brockman Ln,Mason,TX,76856,"2717 Brockman Ln, Mason, TX 76856",1824.0,1963.0,2.0,3.0,1286806.0,-99.147163,30.777509
-19 Aster Ter,Key West,FL,33040,"19 Aster Ter, Key West, FL 33040",1747.0,1960.0,2.0,2.0,6000.0,-81.731491,24.581032
-3814 Crenshaw Ave,Fort Worth,TX,76105,"3814 Crenshaw Ave, Fort Worth, TX 76105",784.0,1947.0,1.0,3.0,12249.0,-97.268333,32.718003
-106 Morgan Dr,Cobleskill,NY,12043,"106 Morgan Dr, Apt 5, Cobleskill, NY 12043",0.0,0.0,0.0,0.0,0.0,-74.558414,42.633166
-18817 Nautical Dr,Cornelius,NC,28031,"18817 Nautical Dr, Apt 304, Cornelius, NC 28031",940.0,1987.0,2.0,2.0,299083.0,-80.889408,35.461659
-4014 Chippewa Pl NE,Brookhaven,GA,30319,"4014 Chippewa Pl NE, Brookhaven, GA 30319",0.0,0.0,0.0,0.0,0.0,-84.330812,33.911032
-1731 Trentwood Dr,Fort Mill,SC,29715,"1731 Trentwood Dr, Fort Mill, SC 29715",2138.0,2016.0,2.5,3.0,43560.0,-80.944617,34.968971
-431 N 3rd St,Scottsburg,IN,47170,"431 N 3rd St, Scottsburg, IN 47170",864.0,1982.0,1.0,2.0,7405.0,-85.766377,38.690601
-145 Zimmerman Dr,Clyde,OH,43410,"145 Zimmerman Dr, Clyde, OH 43410",1240.0,1976.0,1.0,3.0,11674.0,-82.98238,41.292832
-429 Laurel Ave,Hayward,CA,94541,"429 Laurel Ave, Hayward, CA 94541",0.0,0.0,0.0,0.0,0.0,-122.095107,37.67149
-14022 Centralia,Redford,MI,48239,"14022 Centralia, Redford, MI 48239",1110.0,1952.0,2.0,0.0,6534.0,-83.296334,42.387097
-1003 Billie Holiday Ct,Baltimore,MD,21205,"1003 Billie Holiday Ct, Apt 301, Baltimore, MD 21205",0.0,0.0,0.0,0.0,0.0,-76.597144,39.302659
-1050 N Stuart St,Arlington,VA,22201,"1050 N Stuart St, Apt 216, Arlington, VA 22201",734.0,1995.0,1.0,1.0,40786.0,-77.112331,38.882767
-15365 Summit Place Cir,Naples,FL,34119,"15365 Summit Place Cir, Naples, FL 34119",1956.0,2013.0,0.0,0.0,6970.0,-81.694277,26.256701
-2040 Seven Mile Ferry Rd,Clarksville,TN,37040,"2040 Seven Mile Ferry Rd, Clarksville, TN 37040",1752.0,1990.0,2.0,3.0,87120.0,-87.333119,36.466294
-8 W Market St,Wilkes Barre,PA,18701,"8 W Market St, Ste 956, Wilkes Barre, PA 18701",0.0,0.0,0.0,0.0,0.0,-75.88285,41.246859
-11-01 Hopper Ave,Fair Lawn,NJ,7410,"11-01 Hopper Ave, Fair Lawn, NJ 07410",1812.0,1930.0,0.0,0.0,5001.0,-74.129234,40.934961
-8907 Whitsell Way,Lorton,VA,22079,"8907 Whitsell Way, Lorton, VA 22079",1142.0,1983.0,2.0,3.0,1440.0,-77.20539,38.715165
-2762 Trementina Dr,Houston,TX,77088,"2762 Trementina Dr, Houston, TX 77088",1643.0,2009.0,2.5,3.0,4988.0,-95.456031,29.894109
-1709 Elmhurst Dr,Indianapolis,IN,46219,"1709 Elmhurst Dr, Indianapolis, IN 46219",1050.0,1956.0,0.0,3.0,13344.0,-86.041479,39.790931
-300 N State St,Chicago,IL,60654,"300 N State St, Apt 2526, Chicago, IL 60654",0.0,1965.0,0.0,0.0,25735.0,-87.628395,41.888386
-47 Matthew Ave,Kendall Park,NJ,8824,"47 Matthew Ave, Kendall Park, NJ 08824",2368.0,1980.0,0.0,0.0,51836.0,-74.536945,40.436009
-920 Oetter Dr,Ona,FL,32119,"920 Oetter Dr, South Dayt, Ona, FL 32119",2913.0,1990.0,2.0,4.0,10944.0,-81.01305,29.154661
-5134 E Killdee St,Long Beach,CA,90808,"5134 E Killdee St, Long Beach, CA 90808",986.0,1950.0,1.0,2.0,5503.0,-118.132557,33.81647
-15817 N 56th Way,Scottsdale,AZ,85254,"15817 N 56th Way, Scottsdale, AZ 85254",2197.0,1985.0,3.0,4.0,10336.0,-111.959907,33.630464
-25 Justin Cir,Henrietta,NY,14467,"25 Justin Cir, Henrietta, NY 14467",1776.0,1973.0,2.5,3.0,18295.0,-77.622962,43.037764
-703 Santa Fe Dr,Vancouver,WA,98661,"703 Santa Fe Dr, Vancouver, WA 98661",1914.0,1966.0,1.5,4.0,10556.0,-122.617058,45.626118
-4617 Wayne Ave,Philadelphia,PA,19144,"4617 Wayne Ave, Apt 9, Philadelphia, PA 19144",0.0,0.0,0.0,0.0,0.0,-75.163909,40.023359
-298 Sly Avenue Ext,Corning,NY,14830,"298 Sly Avenue Ext, Corning, NY 14830",996.0,1923.0,1.0,3.0,5706.0,-77.062568,42.159115
-63 Tyson Ct,Saint Augustine,FL,32092,"63 Tyson Ct, Saint Augustine, FL 32092",1799.0,2023.0,2.0,3.0,2178.0,-81.574633,30.021079
-1102 E 61st St,Tacoma,WA,98404,"1102 E 61st St, Tacoma, WA 98404",1307.0,1968.0,1.0,4.0,6000.0,-122.415114,47.201454
-2805 Coleman Ave,Jackson,MS,39213,"2805 Coleman Ave, Jackson, MS 39213",875.0,1970.0,0.0,0.0,7625.0,-90.217244,32.339665
-426 E Orchard St,Fredericksburg,TX,78624,"426 E Orchard St, Fredericksburg, TX 78624",1906.0,0.0,2.5,4.0,0.0,-98.861462,30.273798
-3507 Floyd St,Corpus Christi,TX,78411,"3507 Floyd St, Corpus Christi, TX 78411",1012.0,1948.0,1.0,2.0,6882.0,-97.380555,27.752563
-1900 S Austin Ave,Denison,TX,75020,"1900 S Austin Ave, Denison, TX 75020",0.0,1980.0,0.0,0.0,9100.0,-96.537149,33.736408
-179 W Oaks Dr,Ogden,UT,84404,"179 W Oaks Dr, Ogden, UT 84404",962.0,1999.0,1.0,2.0,6098.0,-111.980882,41.254309
-5908 Beechnut St,Houston,TX,77074,"5908 Beechnut St, Houston, TX 77074",954.0,1950.0,1.0,2.0,7501.0,-95.496374,29.688459
-606 7th St NW,Nora Springs,IA,50458,"606 7th St NW, Nora Springs, IA 50458",864.0,1983.0,1.5,4.0,9796.0,-93.013634,43.1493
-344 E Fry Blvd,Sierra Vista,AZ,85635,"344 E Fry Blvd, Sierra Vista, AZ 85635",0.0,0.0,0.0,0.0,0.0,-110.295785,31.554294
-485 Short Rd,Adamsville,TN,38310,"485 Short Rd, Adamsville, TN 38310",0.0,0.0,0.0,0.0,0.0,-88.377654,35.226941
-118 Greenpoint Ave,Brooklyn,NY,11222,"118 Greenpoint Ave, Apt 1A, Brooklyn, NY 11222",1285.0,1931.0,1.5,1.0,0.0,-73.956014,40.729789
-14435 Robinson Ave,Clearlake,CA,95422,"14435 Robinson Ave, Clearlake, CA 95422",1750.0,1960.0,2.0,2.0,10454.0,-122.642788,38.954663
-758 45th Ave,San Francisco,CA,94121,"758 45th Ave, San Francisco, CA 94121",1275.0,1922.0,1.0,0.0,3000.0,-122.505484,37.774239
-910 S 16th St,Philadelphia,PA,19146,"910 S 16th St, Unit 1, Philadelphia, PA 19146",1400.0,0.0,3.0,3.0,0.0,-75.169916,39.939914
-353 Meridian Ave,San Jose,CA,95126,"353 Meridian Ave, Apt 3, San Jose, CA 95126",0.0,0.0,0.0,0.0,0.0,-121.913733,37.322195
-5124 Baltan Rd,Bethesda,MD,20816,"5124 Baltan Rd, Bethesda, MD 20816",2978.0,1959.0,4.5,5.0,13290.0,-77.120857,38.955634
-207 Bentley Ave,Winchester,VA,22602,"207 Bentley Ave, Winchester, VA 22602",1775.0,2001.0,2.0,3.0,0.0,-78.15778,39.135401
-1076 Pea Ridge Rd,Forest,MS,39074,"1076 Pea Ridge Rd, Forest, MS 39074",0.0,0.0,0.0,0.0,0.0,-89.475028,32.567134
-3040 W Cypress St,Tampa,FL,33609,"3040 W Cypress St, Ste A, Tampa, FL 33609",0.0,0.0,0.0,0.0,0.0,-82.49258,27.951956
-16 Toomey Dr,Poughkeepsie,NY,12603,"16 Toomey Dr, Poughkeepsie, NY 12603",1552.0,1953.0,2.0,3.0,21344.0,-73.878759,41.668543
-6212 Leven Link Ct,Cleburne,TX,76033,"6212 Leven Link Ct, Cleburne, TX 76033",2764.0,0.0,3.0,4.0,43647.0,-97.501217,32.198704
-PO Box 440373,Chicago,IL,60644,"PO Box 440373, Chicago, IL 60644",0.0,0.0,0.0,0.0,0.0,-87.757503,41.880071
-816 Chestnut Ct,Winnetka,IL,60093,"816 Chestnut Ct, Winnetka, IL 60093",0.0,1985.0,0.0,0.0,702.0,-87.734436,42.105113
-3806 Sw Moline Ave,Bentonville,AR,72712,"3806 Sw Moline Ave, Bentonville, AR 72712",1476.0,2003.0,2.0,0.0,6970.0,-94.255381,36.360637
-12160 Queens Brigade Dr,Fairfax,VA,22030,"12160 Queens Brigade Dr, Fairfax, VA 22030",2028.0,1977.0,3.5,4.0,26434.0,-77.364109,38.803226
-32 Mel Ron Ct,Carlisle,PA,17015,"32 Mel Ron Ct, Carlisle, PA 17015",1168.0,2004.0,2.0,2.0,0.0,-77.159172,40.220385
-419 Durham N,Deerfield Beach,FL,33442,"419 Durham N, Deerfield Beach, FL 33442",820.0,1974.0,1.0,2.0,977.0,-80.137345,26.316069
-105 E Harwood Rd,Euless,TX,76039,"105 E Harwood Rd, Apt 413, Euless, TX 76039",820.0,0.0,1.0,2.0,0.0,-97.080886,32.853586
-9432 Bay Colony Dr,Des Plaines,IL,60016,"9432 Bay Colony Dr, Apt 3W, Des Plaines, IL 60016",0.0,0.0,0.0,0.0,0.0,-87.86585,42.051059
-4085 Eola Ave,Titusville,FL,32796,"4085 Eola Ave, Titusville, FL 32796",1399.0,1968.0,2.0,3.0,7405.0,-80.861756,28.631268
-351 North Ave,Weston,MA,2493,"351 North Ave, Weston, MA 02493",960.0,1952.0,2.0,4.0,38768.0,-71.292432,42.394388
-319 N D St,Oskaloosa,IA,52577,"319 N D St, Apt 111, Oskaloosa, IA 52577",0.0,0.0,0.0,0.0,0.0,-92.649809,41.297359
-6608 Crestland Ave,Dallas,TX,75252,"6608 Crestland Ave, Dallas, TX 75252",1946.0,1981.0,2.0,3.0,14810.0,-96.791653,32.989811
-3890 Vista,Oceanside,CA,92057,"3890 Vista, Campana S Unit 57, Oceanside, CA 92057",1347.0,1971.0,2.0,2.0,2064.0,-117.323509,33.218115
-3081 Janney St,Philadelphia,PA,19134,"3081 Janney St, Philadelphia, PA 19134",1870.0,1910.0,0.0,0.0,1105.0,-75.110793,39.988771
-PO Box 314,Climax,NC,27233,"PO Box 314, Climax, NC 27233",0.0,0.0,0.0,0.0,0.0,-79.694061,35.895753
-2000 W Camplain Rd,Manville,NJ,8835,"2000 W Camplain Rd, Manville, NJ 08835",1248.0,1950.0,0.0,0.0,6000.0,-74.60271,40.537348
-519 S Palace Ave Apt A,Tyler,TX,75702,"519 S Palace Ave Apt A, Tyler, TX 75702",550.0,0.0,1.0,1.0,0.0,-95.310433,32.344303
-3596 Ridgefield Dr,Murfreesboro,TN,37129,"3596 Ridgefield Dr, Murfreesboro, TN 37129",1595.0,1986.0,2.0,3.0,47916.0,-86.461482,35.877633
-149 Honeybee Trce,Clayton,NC,27520,"149 Honeybee Trce, Clayton, NC 27520",2079.0,2009.0,2.5,3.0,4792.0,-78.479085,35.649162
-3591 Route,Woodstock,NY,12409,"3591 Route, 212, Woodstock, NY 12409",622.0,1909.0,1.0,1.0,23958.0,-74.16305,42.064172
-1219 Redcoat Dr,Charlotte,NC,28211,"1219 Redcoat Dr, Charlotte, NC 28211",2614.0,1967.0,3.5,5.0,16346.0,-80.76906,35.166237
-5701 Wildberry Dr,Greensboro,NC,27409,"5701 Wildberry Dr, Greensboro, NC 27409",1527.0,1982.0,2.0,3.0,13504.0,-79.890611,36.063067
-9757 Tranquil Lk Cir,Riverview,FL,33578,"9757 Tranquil Lk Cir, Apt 105, Riverview, FL 33578",0.0,0.0,0.0,0.0,0.0,-82.344434,27.896357
-1709 E Jarvis Ave,Mesa,AZ,85204,"1709 E Jarvis Ave, Mesa, AZ 85204",1316.0,1960.0,2.0,0.0,6765.0,-111.794348,33.410028
-1222 Magnolia St,Kalamazoo,MI,49048,"1222 Magnolia St, Kalamazoo, MI 49048",0.0,0.0,0.0,0.0,13068.0,-85.520919,42.299304
-2601 Nw Expy,Oklahoma City,OK,73112,"2601 Nw Expy, Ste 815E, Oklahoma City, OK 73112",0.0,0.0,0.0,0.0,0.0,-97.55983,35.526031
-250 Pantops Mountain Rd,Charlottesville,VA,22911,"250 Pantops Mountain Rd, Apt 2, Charlottesville, VA 22911",0.0,0.0,0.0,0.0,0.0,-78.438476,38.028912
-2606 203rd St SW,Lynnwood,WA,98036,"2606 203rd St SW, Lynnwood, WA 98036",1610.0,1990.0,3.0,3.0,6534.0,-122.268447,47.814945
-1645 1/2 W 51st St,Los Angeles,CA,90062,"1645 1/2 W 51st St, Los Angeles, CA 90062",0.0,0.0,0.0,0.0,0.0,-118.308227,33.997024
-20102 Joseph Ln,Land O Lakes,FL,34638,"20102 Joseph Ln, Land O Lakes, FL 34638",0.0,0.0,0.0,0.0,174240.0,-82.483025,28.219986
-491 Gates St,San Francisco,CA,94110,"491 Gates St, San Francisco, CA 94110",1100.0,0.0,1.0,3.0,0.0,-122.413904,37.737211
-26862 Saint Andrews Ln,Valley Center,CA,92082,"26862 Saint Andrews Ln, Valley Center, CA 92082",4626.0,2005.0,4.5,5.0,21780.0,-117.010534,33.207733
-3114 Sterling Point Dr,Portsmouth,VA,23703,"3114 Sterling Point Dr, Portsmouth, VA 23703",1784.0,1985.0,2.0,3.0,16117.0,-76.379149,36.849114
-152 Bristol Ct,Waverly,OH,45690,"152 Bristol Ct, Waverly, OH 45690",0.0,0.0,0.0,0.0,0.0,-83.245866,39.099562
-715 Louise Ave,Charlotte,NC,28204,"715 Louise Ave, Charlotte, NC 28204",0.0,0.0,0.0,0.0,0.0,-80.821878,35.221429
-13932 Sw 52nd Ter,Miami,FL,33175,"13932 Sw 52nd Ter, Miami, FL 33175",1028.0,1979.0,2.0,2.0,2400.0,-80.418632,25.717457
-1318 Renee Ct,Kannapolis,NC,28081,"1318 Renee Ct, Kannapolis, NC 28081",0.0,0.0,0.0,0.0,0.0,-80.63149,35.514402
-4539 Nueces Dr,Santa Barbara,CA,93110,"4539 Nueces Dr, Santa Barbara, CA 93110",2381.0,1960.0,3.0,7.0,15246.0,-119.775208,34.435708
-2437 Ne 6th St,Ocala,FL,34470,"2437 Ne 6th St, Apt 28, Ocala, FL 34470",672.0,1973.0,1.0,1.0,435.0,-82.104232,29.191795
-3639 Essex Rd,Willsboro,NY,12996,"3639 Essex Rd, Willsboro, NY 12996",1584.0,1971.0,1.0,2.0,17424.0,-73.386874,44.356434
-119 Oxford Pl,Staten Island,NY,10301,"119 Oxford Pl, Staten Island, NY 10301",1360.0,1930.0,0.0,0.0,4400.0,-74.089384,40.631697
-9 Old Fire Rd,Trumbull,CT,6611,"9 Old Fire Rd, Trumbull, CT 06611",2628.0,1978.0,2.5,4.0,43560.0,-73.218842,41.291973
-5017 Dalton Rd,Chevy Chase,MD,20815,"5017 Dalton Rd, Chevy Chase, MD 20815",2046.0,1935.0,1.0,0.0,9874.0,-77.092933,38.961305
-256 Overlook Trl,Gun Barrel City,TX,75156,"256 Overlook Trl, Gun Barrel City, TX 75156",1120.0,1998.0,2.0,0.0,0.0,-96.101949,32.325913
-1306 W North St,Anaheim,CA,92801,"1306 W North St, Anaheim, CA 92801",2028.0,1972.0,2.0,4.0,9840.0,-117.933883,33.840816
-1880 Bashaw St NW,Palm Bay,FL,32907,"1880 Bashaw St NW, Palm Bay, FL 32907",1900.0,1991.0,2.0,3.0,10019.0,-80.727458,28.021863
-2715 1/2 20th St,Bakersfield,CA,93301,"2715 1/2 20th St, Bakersfield, CA 93301",0.0,0.0,0.0,0.0,0.0,-119.03341,35.376956
-11331 Sw 160th Ave,Miami,FL,33196,"11331 Sw 160th Ave, Miami, FL 33196",2293.0,1991.0,2.0,3.0,6058.0,-80.454129,25.662899
-1874 Harmon Ave,Winter Park,FL,32789,"1874 Harmon Ave, # 339, Winter Park, FL 32789",1064.0,0.0,2.0,2.0,0.0,-81.374469,28.585588
-710 Fox Chase Cir,Bear,DE,19701,"710 Fox Chase Cir, Bear, DE 19701",2100.0,1988.0,2.5,4.0,8712.0,-75.724211,39.603956
-1222 Course View Dr,League City,TX,77573,"1222 Course View Dr, League City, TX 77573",1964.0,2019.0,0.0,0.0,7741.0,-95.082773,29.484142
-7222 16th Ave,Takoma Park,MD,20912,"7222 16th Ave, Takoma Park, MD 20912",1185.0,1947.0,2.0,0.0,6476.0,-76.983232,38.979096
-14041 Shivers Cv,San Antonio,TX,78254,"14041 Shivers Cv, San Antonio, TX 78254",1904.0,2017.0,2.0,4.0,5401.0,-98.773568,29.523841
-601 Waddell Ave,Clairton,PA,15025,"601 Waddell Ave, Apt 2, Clairton, PA 15025",0.0,0.0,0.0,0.0,0.0,-79.887255,40.294388
-451 Oak St,Harriman,TN,37748,"451 Oak St, Harriman, TN 37748",720.0,1978.0,0.0,0.0,22651.0,-84.53716,35.946433999999996
-1443 Bailey Ave,Macon,GA,31204,"1443 Bailey Ave, Macon, GA 31204",1144.0,1950.0,1.0,2.0,10890.0,-83.674785,32.830425
-18529 Gladville Ave,Homewood,IL,60430,"18529 Gladville Ave, Homewood, IL 60430",1253.0,1952.0,1.0,3.0,7752.0,-87.657426,41.552667
-15490 Ferguson St,Detroit,MI,48227,"15490 Ferguson St, Detroit, MI 48227",1474.0,1939.0,1.0,3.0,4792.0,-83.209135,42.404415
-3522 Paintbrush Dawn Ct,Katy,TX,77493,"3522 Paintbrush Dawn Ct, Katy, TX 77493",2249.0,2014.0,2.0,4.0,8459.0,-95.777705,29.82349
-14208 Brookhurst St,Garden Grove,CA,92843,"14208 Brookhurst St, Garden Grove, CA 92843",0.0,0.0,0.0,0.0,0.0,-117.954851,33.756294
-9215 Sw 101st Ln,Ocala,FL,34481,"9215 Sw 101st Ln, Ocala, FL 34481",1656.0,1982.0,2.0,3.0,9583.0,-82.272408,29.075128
-6977 Bemiss Rd,Ray City,GA,31645,"6977 Bemiss Rd, Ray City, GA 31645",2172.0,1981.0,2.0,0.0,4856504.0,-83.200905,31.011794
-218 E 2nd St N,Big Stone Gap,VA,24219,"218 E 2nd St N, Big Stone Gap, VA 24219",2052.0,1930.0,3.0,2.0,0.0,-82.778928,36.867469
-3391 Inverrary Blvd W,Lauderhill,FL,33319,"3391 Inverrary Blvd W, Lauderhill, FL 33319",1458.0,1999.0,0.0,0.0,2458.0,-80.244754,26.168443
-928 E 26th St,Brooklyn,NY,11210,"928 E 26th St, Brooklyn, NY 11210",1120.0,1920.0,3.0,3.0,2000.0,-73.951231,40.627927
-114 Dancy St,Jackson,TN,38301,"114 Dancy St, Jackson, TN 38301",1016.0,1935.0,1.0,0.0,8999.0,-88.821382,35.622442
-1233 Timbershyre Pl,Lawrenceville,GA,30043,"1233 Timbershyre Pl, Lawrenceville, GA 30043",4579.0,1991.0,2.5,4.0,19166.0,-83.993683,33.994129
-2788 E 146th St,Carmel,IN,46033,"2788 E 146th St, Carmel, IN 46033",0.0,0.0,0.0,0.0,0.0,-86.113399,40.000864
-3825 Bunny Dr,Nashville,TN,37211,"3825 Bunny Dr, Nashville, TN 37211",1548.0,1966.0,1.5,3.0,11761.0,-86.723177,36.090662
-16101 Imperial Valley Dr,Houston,TX,77060,"16101 Imperial Valley Dr, Apt 1105, Houston, TX 77060",0.0,0.0,0.0,0.0,0.0,-95.403212,29.933612
-Tract 15 Hwy,Clarkridge,AR,72623,"Tract 15 Hwy, 201 N, Clarkridge, AR 72623",0.0,0.0,0.0,0.0,438214.0,-92.352277,36.462888
-16315 Amberly Ct,Schertz,TX,78154,"16315 Amberly Ct, Schertz, TX 78154",1608.0,2005.0,2.0,3.0,6621.0,-98.329343,29.588597
-2635 Kincaid St,Eugene,OR,97405,"2635 Kincaid St, Eugene, OR 97405",1408.0,1946.0,2.0,5.0,7405.0,-123.078731,44.029825
-2425 W Bronco Butte Trl,Phoenix,AZ,85085,"2425 W Bronco Butte Trl, Unit 1037, Phoenix, AZ 85085",1662.0,2014.0,2.0,2.0,1888.0,-112.110281,33.775369
-15087 County Rd,Fort Lupton,CO,80621,"15087 County Rd, 8, Fort Lupton, CO 80621",3372.0,1953.0,2.0,4.0,7797240.0,-104.761975,40.04681
-2818 Brinker Ln,Easton,PA,18040,"2818 Brinker Ln, Easton, PA 18040",4588.0,2005.0,3.5,4.0,17955.0,-75.206586,40.73216
-12410 Deep Spring Ln,Houston,TX,77077,"12410 Deep Spring Ln, Houston, TX 77077",2610.0,1969.0,2.0,4.0,8625.0,-95.598732,29.754446
-1149 Sunshine Ln,Kimper,KY,41539,"1149 Sunshine Ln, Kimper, KY 41539",2456.0,1980.0,2.0,4.0,6970.0,-82.377347,37.51469
-2902 Native Dancer Ct,Bowie,MD,20721,"2902 Native Dancer Ct, Bowie, MD 20721",3580.0,1995.0,2.5,0.0,43164.0,-76.745936,38.929762
-6682 S Jacqueline Way,Gilbert,AZ,85298,"6682 S Jacqueline Way, Gilbert, AZ 85298",3216.0,2011.0,3.0,0.0,9407.0,-111.71066,33.228705
-117 Nathan Dr,Cinnaminson,NJ,8077,"117 Nathan Dr, Cinnaminson, NJ 08077",0.0,2021.0,0.0,0.0,0.0,-75.006779,40.017667
-9373 Creosote Ave,Oak Hills,CA,92344,"9373 Creosote Ave, Oak Hills, CA 92344",3169.0,2006.0,3.0,4.0,4999.0,-117.368731,34.420962
-5711 E 2nd St,Long Beach,CA,90803,"5711 E 2nd St, Apt 8, Long Beach, CA 90803",0.0,0.0,0.0,0.0,0.0,-118.122614,33.757011
-612 Villa Dr,Norman,OK,73071,"612 Villa Dr, Norman, OK 73071",948.0,1952.0,1.0,2.0,7841.0,-97.428135,35.217361
-12302 Cliveden St,Herndon,VA,20170,"12302 Cliveden St, Herndon, VA 20170",2492.0,1987.0,3.5,5.0,9832.0,-77.371211,38.995332
-2502 Deadrick Ave,Memphis,TN,38114,"2502 Deadrick Ave, Memphis, TN 38114",775.0,1947.0,1.0,2.0,5532.0,-89.978943,35.105033
-3422 Hightide Dr,Rancho Palos Verdes,CA,90275,"3422 Hightide Dr, Rancho Palos Verdes, CA 90275",2244.0,1969.0,3.0,4.0,13461.0,-118.339351,33.734333
-Big Creek Ln,La Follette,TN,37766,"Big Creek Ln, La Follette, TN 37766",0.0,0.0,0.0,0.0,20473.0,-84.085125,36.294228
-1535 Stimmel Rd,Columbus,OH,43223,"1535 Stimmel Rd, Apt B1, Columbus, OH 43223",0.0,0.0,0.0,0.0,0.0,-83.037075,39.93247
-2115 140th Pl SE,Mill Creek,WA,98012,"2115 140th Pl SE, Mill Creek, WA 98012",3104.0,1981.0,3.0,4.0,12632.0,-122.203509,47.870502
-8330 Wheatland Ave,Sun Valley,CA,91352,"8330 Wheatland Ave, Sun Valley, CA 91352",856.0,1944.0,1.0,3.0,10044.0,-118.361505,34.222559
-129 Pinckney Rd,Harvest,AL,35749,"129 Pinckney Rd, Harvest, AL 35749",1589.0,2003.0,1.0,3.0,0.0,-86.75698,34.825095
-16709 Norwood Dr,Tampa,FL,33624,"16709 Norwood Dr, Tampa, FL 33624",1380.0,1981.0,2.0,3.0,8816.0,-82.528151,28.110654
-14582 Hidden Canyon Ln,Victorville,CA,92394,"14582 Hidden Canyon Ln, Victorville, CA 92394",1674.0,1991.0,2.5,4.0,4100.0,-117.351533,34.515503
-107 Second St,Youngsville,LA,70592,"107 Second St, Youngsville, LA 70592",1030.0,1860.0,0.0,0.0,9235.0,-91.992799,30.097504
-132 Pioneer Dr,Woodstock,GA,30188,"132 Pioneer Dr, Woodstock, GA 30188",1416.0,1980.0,2.0,3.0,27356.0,-84.445557,34.083346
-1224 N Highland St,Ada,OK,74820,"1224 N Highland St, Ada, OK 74820",1031.0,1971.0,1.0,3.0,8400.0,-96.663573,34.788492
-1313 Walnut Ave,Grand Junction,CO,81501,"1313 Walnut Ave, Grand Junction, CO 81501",864.0,1948.0,1.0,2.0,43560.0,-108.549643,39.086254
-16968 Nw Catalpa St,Portland,OR,97229,"16968 Nw Catalpa St, Portland, OR 97229",2864.0,2017.0,4.0,5.0,3049.0,-122.852216,45.576087
-15305 S Berendo Ave,Gardena,CA,90247,"15305 S Berendo Ave, Apt 17, Gardena, CA 90247",1203.0,1980.0,2.0,2.0,34121.0,-118.294242,33.891531
-3683 Vancouver Way,Concord,CA,94520,"3683 Vancouver Way, Concord, CA 94520",1134.0,1960.0,2.0,3.0,6700.0,-122.033075,38.004101
-1107 Lavaur Ct,Kissimmee,FL,34759,"1107 Lavaur Ct, Kissimmee, FL 34759",1481.0,1996.0,2.0,3.0,7710.0,-81.443858,28.121963
-7500 Hampton Blvd,Norfolk,VA,23505,"7500 Hampton Blvd, Apt C6, Norfolk, VA 23505",1500.0,1949.0,2.0,2.0,48352.0,-76.306619,36.914624
-PO Box 1378,Chambersburg,PA,17201,"PO Box 1378, Chambersburg, PA 17201",0.0,0.0,0.0,0.0,0.0,-77.660729,39.977523
-8618 Westwood Center Dr,Vienna,VA,22182,"8618 Westwood Center Dr, Ste 200, Vienna, VA 22182",0.0,0.0,0.0,0.0,0.0,-77.249458,38.929332
-7977 Hills And Dales Rd NE,Massillon,OH,44646,"7977 Hills And Dales Rd NE, Massillon, OH 44646",0.0,0.0,0.0,0.0,0.0,-81.500478,40.821615
-24221 S Chrisman Rd,Tracy,CA,95304,"24221 S Chrisman Rd, Spc 47, Tracy, CA 95304",1200.0,1991.0,2.0,3.0,2871.0,-121.399452,37.738094
-322 Anderson Ave,Weatherford,OK,73096,"322 Anderson Ave, Weatherford, OK 73096",0.0,0.0,0.0,0.0,0.0,-98.711161,35.54026
-605 Masterson Pass,Austin,TX,78753,"605 Masterson Pass, Apt 413, Austin, TX 78753",0.0,0.0,0.0,0.0,0.0,-97.691014,30.369099
-6800 Varna Ave,Van Nuys,CA,91405,"6800 Varna Ave, Apt 14, Van Nuys, CA 91405",0.0,0.0,0.0,0.0,0.0,-118.423307,34.194202
-32323 Kalamazoo St,Westland,MI,48186,"32323 Kalamazoo St, Westland, MI 48186",834.0,1942.0,1.0,2.0,6098.0,-83.359326,42.293893
-County Road 76 Rd,Quincy,MO,65735,"County Road 76 Rd, Quincy, MO 65735",0.0,0.0,0.0,0.0,2178000.0,-93.45490908,38.01505667
-191 County Rd,Oxford,MS,38655,"191 County Rd, 3088, Oxford, MS 38655",1080.0,2000.0,2.5,0.0,542.0,-89.542436,34.3483
-725 Lafayette Ave,Brooklyn,NY,11221,"725 Lafayette Ave, Unit 1A, Brooklyn, NY 11221",871.0,2021.0,1.0,1.0,0.0,-73.944248,40.690928
-13 Albourne St,South River,NJ,8882,"13 Albourne St, South River, NJ 08882",1392.0,1936.0,0.0,0.0,3999.0,-74.392567,40.445338
-1932 E Morrow Dr,Phoenix,AZ,85024,"1932 E Morrow Dr, Phoenix, AZ 85024",2329.0,1987.0,4.0,4.0,10848.0,-112.041063,33.657887
-5054 Piersonville Rd,Columbiaville,MI,48421,"5054 Piersonville Rd, Columbiaville, MI 48421",1694.0,2001.0,2.5,3.0,456509.0,-83.432238,43.174221
-1209 Yale Pl,Charlotte,NC,28209,"1209 Yale Pl, Charlotte, NC 28209",3133.0,1948.0,3.5,4.0,11547.0,-80.850847,35.187799
-6600 Huntington Lakes Cir,Naples,FL,34119,"6600 Huntington Lakes Cir, Apt 102, Naples, FL 34119",1231.0,1998.0,0.0,0.0,0.0,-81.734734,26.278599
-4430 N Detroit Ave,Tulsa,OK,74106,"4430 N Detroit Ave, Tulsa, OK 74106",1128.0,1956.0,1.0,0.0,10149.0,-95.992147,36.219125
-Fairview Ln,Chilton,WI,53014,"Fairview Ln, Unit 23, Chilton, WI 53014",0.0,0.0,0.0,0.0,5152.0,-88.16552927,44.03235915
-962 School Rd,Peculiar,MO,64078,"962 School Rd, Peculiar, MO 64078",1374.0,1977.0,1.0,3.0,21780.0,-94.459414,38.731164
-3604 Lauren Trl,Pearland,TX,77581,"3604 Lauren Trl, Pearland, TX 77581",3003.0,2005.0,3.0,0.0,10013.0,-95.262433,29.539409
-10420 Ivy Fld,Schertz,TX,78154,"10420 Ivy Fld, Schertz, TX 78154",2859.0,2012.0,3.0,4.0,29664.0,-98.263207,29.483628
-2818 Redland Crk,San Antonio,TX,78259,"2818 Redland Crk, San Antonio, TX 78259",1845.0,1996.0,2.0,3.0,8015.0,-98.442282,29.606584
-824 S 400 W,Salt Lake City,UT,84101,"824 S 400 W, Apt 228, Salt Lake City, UT 84101",0.0,0.0,0.0,0.0,0.0,-111.902818,40.751646
-7695 E Key Largo Ct,Reno,NV,89506,"7695 E Key Largo Ct, Reno, NV 89506",1082.0,2004.0,2.0,2.0,7318.0,-119.904235,39.626299
-4421 Starlight Pointe Dr,Mulberry,FL,33860,"4421 Starlight Pointe Dr, Mulberry, FL 33860",1489.0,2009.0,2.0,3.0,6599.0,-81.996429,27.932154
-3123 Benton Square Dr,Olney,MD,20832,"3123 Benton Square Dr, Olney, MD 20832",1152.0,1986.0,1.5,0.0,1620.0,-77.063409,39.139692
-45336 Gable Sq,Sterling,VA,20164,"45336 Gable Sq, Sterling, VA 20164",1206.0,1995.0,3.5,3.0,1307.0,-77.429082,39.002444
-2 Marshs Victory Ct,Catonsville,MD,21228,"2 Marshs Victory Ct, Catonsville, MD 21228",1496.0,1984.0,2.5,0.0,3356.0,-76.769612,39.297888
-1519 Olympian Way SW,Atlanta,GA,30310,"1519 Olympian Way SW, Atlanta, GA 30310",650.0,0.0,1.0,1.0,0.0,-84.43734,33.735798
-10850 6th St NE,Minneapolis,MN,55434,"10850 6th St NE, Apt 212, Minneapolis, MN 55434",0.0,0.0,0.0,0.0,0.0,-93.262843,45.167543
-83 Sea Breeze Dr,South Dartmouth,MA,2748,"83 Sea Breeze Dr, Apt B, South Dartmouth, MA 02748",0.0,0.0,0.0,0.0,0.0,-70.937057,41.601867
-3425 Hansa Ave,North Las Vegas,NV,89081,"3425 Hansa Ave, North Las Vegas, NV 89081",2942.0,2007.0,3.0,4.0,6098.0,-115.099308,36.265638
-20121 Antago St,Livonia,MI,48152,"20121 Antago St, Livonia, MI 48152",997.0,1924.0,1.0,2.0,5663.0,-83.31942599999999,42.437004
-255 S West Ave,Elmhurst,IL,60126,"255 S West Ave, Apt 505, Elmhurst, IL 60126",480.0,1972.0,1.0,1.0,116741.0,-87.958644,41.893172
-12210 Colima Rd,Whittier,CA,90604,"12210 Colima Rd, Whittier, CA 90604",2461.0,1990.0,3.0,4.0,5004.0,-118.025009,33.918862
-4565 Aspen Mill Rd,Nottingham,MD,21236,"4565 Aspen Mill Rd, Nottingham, MD 21236",0.0,1997.0,2.0,0.0,1201.0,-76.471727,39.381811
-443 Nw Canterbury Ct,Port Saint Lucie,FL,34983,"443 Nw Canterbury Ct, Port Saint Lucie, FL 34983",2450.0,2000.0,2.0,4.0,11848.0,-80.367011,27.352844
-22 Washington St,Clark,NJ,7066,"22 Washington St, Clark, NJ 07066",1102.0,1955.0,0.0,0.0,5001.0,-74.296648,40.617862
-6101 Cleveland St,Hollywood,FL,33024,"6101 Cleveland St, Lot B2, Hollywood, FL 33024",0.0,0.0,0.0,0.0,0.0,-80.210347,26.022261
-10 Peri Sum Blvd NE,Brookhaven,GA,30319,"10 Peri Sum Blvd NE, Unit 4413, Brookhaven, GA 30319",648.0,2005.0,1.0,1.0,0.0,-84.338201,33.876561
-3300 White Chimneys Ct,Glen Allen,VA,23060,"3300 White Chimneys Ct, Glen Allen, VA 23060",2298.0,2001.0,2.5,4.0,16292.0,-77.51358,37.673236
-4128 Fountainside Ln,Fairfax,VA,22030,"4128 Fountainside Ln, Fairfax, VA 22030",1440.0,1998.0,2.5,3.0,1060.0,-77.343027,38.857007
-347 Alameda Ave,Astoria,OR,97103,"347 Alameda Ave, Apt 6, Astoria, OR 97103",0.0,0.0,0.0,0.0,0.0,-123.851415,46.186832
-5604 Amersham Way,Boca Raton,FL,33486,"5604 Amersham Way, Boca Raton, FL 33486",1580.0,1985.0,2.5,3.0,3781.0,-80.13108,26.356113
-2619 N Texas Blvd,Alice,TX,78332,"2619 N Texas Blvd, Apt 103, Alice, TX 78332",0.0,0.0,0.0,0.0,0.0,-98.064862,27.773909
-948 N Market St,Troy,OH,45373,"948 N Market St, Troy, OH 45373",0.0,0.0,0.0,0.0,0.0,-84.193847,40.050402
-830 Gates Ave,Norfolk,VA,23517,"830 Gates Ave, Apt B5, Norfolk, VA 23517",0.0,0.0,0.0,0.0,0.0,-76.298108,36.870375
-275 S Pierce Rd,East Greenwich,RI,2818,"275 S Pierce Rd, East Greenwich, RI 02818",2785.0,1963.0,2.5,4.0,60984.0,-71.473354,41.647491
-2470 Seggolia Ln,Kissimmee,FL,34741,"2470 Seggolia Ln, Kissimmee, FL 34741",3105.0,2018.0,4.0,5.0,6534.0,-81.429521,28.319489
-2140 Nw 81st St,Miami,FL,33147,"2140 Nw 81st St, Miami, FL 33147",1120.0,1965.0,1.0,3.0,4250.0,-80.232449,25.847954
-6207 Royal Oak Dr,Orlando,FL,32809,"6207 Royal Oak Dr, Orlando, FL 32809",1091.0,1963.0,2.0,3.0,9753.0,-81.387758,28.468898
-319 Temple Cress Ave,Lexington,SC,29072,"319 Temple Cress Ave, Lexington, SC 29072",3032.0,2021.0,3.0,5.0,7841.0,-81.247168,33.956198
-6010 Willow Spring Rd,Harrisburg,PA,17111,"6010 Willow Spring Rd, Harrisburg, PA 17111",1385.0,1977.0,2.0,3.0,14975.0,-76.774377,40.285525
-964 Desert Isle Dr,San Jose,CA,95117,"964 Desert Isle Dr, San Jose, CA 95117",2253.0,1962.0,0.0,0.0,6900.0,-121.974768,37.309294
-134 W Geneva,East Carbon,UT,84520,"134 W Geneva, East Carbon, UT 84520",0.0,0.0,0.0,0.0,0.0,-110.423556,39.542391
-17012 E Salida Dr,Fountain Hills,AZ,85268,"17012 E Salida Dr, Unit B, Fountain Hills, AZ 85268",1356.0,1997.0,1.0,0.0,1416.0,-111.712986,33.593533
-6733 198th Pl SW,Lynnwood,WA,98036,"6733 198th Pl SW, Lynnwood, WA 98036",1890.0,2004.0,2.5,3.0,1812.0,-122.324704,47.818915
-1290 N Ridge Blvd,Clermont,FL,34711,"1290 N Ridge Blvd, Apt 2311, Clermont, FL 34711",0.0,0.0,0.0,0.0,0.0,-81.734093,28.561364
-294 Cahuenga Dr,Oxnard,CA,93035,"294 Cahuenga Dr, Oxnard, CA 93035",1653.0,1957.0,2.5,4.0,3500.0,-119.219011,34.15749
-5933 Taylor Ridge Dr,West Chester,OH,45069,"5933 Taylor Ridge Dr, West Chester, OH 45069",3021.0,1994.0,2.5,4.0,16003.0,-84.425715,39.3512
-808 Ne 8th St,Coupeville,WA,98239,"808 Ne 8th St, Coupeville, WA 98239",880.0,1942.0,2.0,2.0,0.0,-122.675252,48.219766
-2140 Pearson Way,Round Rock,TX,78665,"2140 Pearson Way, Round Rock, TX 78665",1374.0,2003.0,2.0,0.0,0.0,-97.620134,30.546867
-6412 Oyster Key Ln,Plainfield,IN,46168,"6412 Oyster Key Ln, Plainfield, IN 46168",2024.0,2006.0,2.0,3.0,6970.0,-86.411656,39.677382
-97-30 110th St,New York,NY,11421,"97-30 110th St, New York, NY 11421",0.0,1920.0,4.5,7.0,1800.0,-73.834297,40.688389
-1921 Chatham Dr,Wheaton,IL,60189,"1921 Chatham Dr, Wheaton, IL 60189",2387.0,1986.0,2.5,4.0,12197.0,-88.112394,41.835263
-364 Bearded Oaks Cir,Sarasota,FL,34232,"364 Bearded Oaks Cir, Sarasota, FL 34232",1117.0,1986.0,2.0,3.0,4888.0,-82.489828,27.332788
+addressLine1,lastSalePrice,time_id,location_id,description_id
+1741 Nw 9th St,0.0,1,1,1
+1741 Nw 9th St,0.0,1,81,1
+Country Shire Ln,0.0,1,2,2
+205 N Main St,45000.0,2,3,1
+287 Arbor Glen Blvd,420000.0,3,4,3
+8916 W Rutter Pkwy,1000.0,4,5,4
+7410 Highway,0.0,1,6,1
+3056 Coddington Ave,945000.0,5,7,5
+206 B Ave,34500.0,6,8,6
+1648 S 20th St,129000.0,7,9,7
+3609 Pontiac Ave,0.0,8,10,8
+8275 Royall Oaks Dr,1420000.0,9,11,9
+6145 Raintree Bnd,43000.0,10,12,10
+17 Anthony St,159000.0,11,13,11
+3030 W Excell Ave,170000.0,12,5,12
+3215 Country Ln,0.0,1,14,13
+543 Railway Pl SW,85000.0,13,15,14
+1507 Worthing Rd,141000.0,14,16,15
+1123 S Porter Ave,0.0,15,17,16
+419 Canal View Way,0.0,1,18,1
+419 Canal View Way,0.0,1,235,1
+11500 W 38th Ave,0.0,1,19,1
+801 E Southway Blvd,0.0,16,20,17
+PO Box 9081,0.0,1,21,1
+841 N Kentucky Ave,0.0,1,22,18
+2420 W Cortez St,339000.0,17,23,19
+404 Anten Gulley Ct,261000.0,18,24,20
+4107 Holly Dr,240000.0,19,25,21
+355 W 47th St,0.0,1,26,22
+PO Box 8628,0.0,1,27,1
+6507 Ave K,0.0,1,28,23
+5859 Castle Run,0.0,20,29,24
+760 N Coral St,32000.0,21,30,25
+4437 E Wayland Rd,188950.0,22,31,26
+13400 Bavarian Dr,0.0,23,32,27
+1620 Manor Dr,0.0,1,33,28
+29 Taos Cir,199900.0,24,34,29
+449 S Minter St,0.0,25,35,30
+6224 Wrothston Dr,116875.0,26,36,31
+409 Beach 141st St,0.0,1,37,32
+1533 Pine Ridge Dr,0.0,1,38,1
+201 Carl St,0.0,1,39,1
+1298 Lannock Dr,0.0,1,40,33
+1310 Buchanan Pl NE,184900.0,27,41,34
+9509B Horn Ave,405000.0,28,42,35
+850 Lyons Cir NW,248900.0,29,43,36
+3559 S Rockwell St,0.0,1,23,37
+1153 Rankins Ln,295000.0,30,44,38
+528 Summerfield Pl,500000.0,31,45,39
+102 Stringer Ave,0.0,1,46,1
+102 Stringer Ave,0.0,1,178,1
+23 Acorn Ct,166500.0,32,47,40
+3024 E Timberedge Ct,161900.0,33,48,41
+412 Quincy Ave,0.0,34,49,42
+977 Oakwood Dr,0.0,35,50,43
+1820 Quebec St,395000.0,36,51,44
+2916 Mulberry Ln,0.0,1,52,45
+2916 Mulberry Ln,0.0,1,368,45
+44 W 1st St,0.0,1,53,1
+1357 W Stop 11 Rd,0.0,1,18,46
+1357 W Stop 11 Rd,0.0,1,235,46
+2118 Elm Dr,0.0,37,54,47
+401 Chestnut St,60000.0,38,55,48
+12944C Grays Pointe Rd,0.0,1,56,49
+1876 W Alta Vista Rd,88000.0,39,31,50
+851 S 1600 W,0.0,40,57,51
+237 Clinton St,0.0,41,58,52
+2282 Four Seasons Dr,279900.0,42,59,53
+804 Bell Ave,7500.0,43,60,54
+20867 Veranda Dr,416200.0,44,61,55
+12 Harold Ln,475000.0,45,62,56
+778 Ashwood St,115000.0,46,63,57
+3126 Emmett St,0.0,47,64,58
+5 Casa Verde,0.0,48,65,59
+708 N Carolina Ave SE,937000.0,49,66,60
+208 S Poplar Ave,219900.0,50,67,61
+323 South St,0.0,1,68,62
+100 Crail Ranch Dr,0.0,1,69,63
+1701 Veterans Memorial Pkwy,0.0,1,70,1
+1644 Stone Edge Cir,520000.0,51,71,64
+4175 Olathe Dr,0.0,1,72,1
+Brookfield Dr,0.0,1,73,65
+862 Watson Ave,200000.0,52,74,66
+1608 Sumner Ave # B,0.0,1,75,67
+743 N Brooks Camp Rd,550000.0,53,76,68
+8916 Moody Ave,325000.0,54,77,69
+2621 S Buffalo Dr,240000.0,55,24,70
+PO Box 547,0.0,1,78,1
+30364 Wedgewood Cir,58000.0,56,79,71
+30364 Wedgewood Cir,58000.0,56,355,71
+1917 Green Tree Rd,0.0,1,80,72
+1416 Lincolnshire Rd,230000.0,57,1,73
+1416 Lincolnshire Rd,230000.0,57,81,73
+25647 Lo Ln,0.0,1,82,74
+1601 S Michigan Ave,125000.0,58,23,75
+147 S Larchmont Blvd,117001.0,59,83,76
+1540 Valley Rd,180000.0,60,84,77
+158 Prairie Lndg,459900.0,61,85,78
+145 Front St,0.0,1,86,79
+2333 Nw 155th St,215500.0,62,87,80
+2234 Tansel Grove Ln,0.0,63,18,81
+2234 Tansel Grove Ln,0.0,63,235,81
+22215 Gratiot Ave,0.0,1,88,82
+1017 41st St NW,0.0,1,89,1
+1100 E Oltorf St,0.0,1,90,1
+4824 Hollow Corner Rd,280000.0,64,91,83
+105 Valley View Dr,220000.0,65,92,84
+1911 N 13th St,0.0,66,93,85
+514 Green Bay Rd,2000000.0,67,94,86
+3601 Perryman Rd,0.0,68,95,87
+577 Locust St,0.0,1,96,1
+8324 Washingtn Blvd SW,0.0,1,97,1
+8324 Washingtn Blvd SW,0.0,1,115,1
+9640 Southern Belle Dr,480000.0,69,98,88
+427 Patten Ave,0.0,1,99,1
+106 Ne 6th St,380000.0,70,100,89
+15526 Golden Dupant Dr,0.0,71,101,90
+39 Elm St,198000.0,72,102,91
+2280 Wisconsin St,0.0,1,103,92
+841 N Washtenaw Ave,0.0,1,23,93
+844 Andover Rd,135000.0,73,104,94
+3858 Topsail Dr,379500.0,74,105,95
+19781 Scenic Harbour Dr,259600.0,75,106,96
+6328 Percheron Ln,1602090.0,76,107,97
+7235 Bayou Timbers Dr,0.0,69,108,98
+1208 W Dickerson St,0.0,1,109,99
+3125 Catamore Ln,0.0,77,64,100
+3304 Cornell Ave,0.0,78,110,101
+3304 Brighton St,187000.0,79,111,102
+2885 Alkire Rd,275000.0,80,112,103
+234 Ne Edgewater Dr,350000.0,81,113,104
+1924 Snyder Ave,255000.0,82,114,105
+1201 Brentwood St,1090000.0,83,97,106
+1201 Brentwood St,1090000.0,83,115,106
+268 Gay St,159900.0,84,116,107
+5619 Roxbury Ter,0.0,1,18,1
+5619 Roxbury Ter,0.0,1,235,1
+1843 International Blvd,470000.0,85,117,108
+16252 W Woodlands Ave,63700.0,86,118,109
+4008 Cedar Crest Ln,192500.0,87,119,110
+8412 Airline Ave,257500.0,88,120,111
+12641 Tiffany Ct,42000.0,89,121,112
+1311 Douglas St SW,415000.0,90,122,113
+7320 Se Augusta Ct,280000.0,91,123,114
+292 Salem St,390000.0,82,124,115
+1376 Eldora Rd,0.0,1,125,116
+1994 Pinehurst Dr,235000.0,92,126,117
+11406 Gilsan St,352000.0,93,127,118
+PO Box 156,0.0,1,128,1
+156 Conestoga Way,250000.0,94,129,119
+813 W 1st St,0.0,1,130,120
+2757 Friendly Ave,0.0,1,15,121
+30 W Chicago Ave,0.0,1,23,1
+21077 Chirping Sparrow Rd,389000.0,95,131,122
+13234 Chaston Dr,0.0,96,132,123
+2332 Wayfarer Dr,800000.0,97,133,124
+2933 Patishall Ln,233000.0,98,134,125
+209 15th Ave W,6900.0,99,135,126
+571 E Nelson Ave,0.0,1,136,1
+5970 Pinnacle Ln,570000.0,100,137,127
+PO Box 1428,0.0,1,138,1
+651 N Peace Haven Rd,265000.0,101,74,128
+4532 E Circulo Way,950000.0,102,139,129
+5044 S 21st Pl,141000.0,103,31,130
+216 Elm St,0.0,1,140,131
+216 Elm St,0.0,1,322,131
+834 N Cherry,0.0,1,141,1
+2723 W Garrison Ave,0.0,1,142,132
+7 Norfolk St,0.0,1,143,1
+5317 Quail Ridge Dr,0.0,1,144,133
+5456 Daniel Ray Dr,225000.0,104,145,134
+16940 Kingsbridge Blvd,295000.0,105,146,135
+12046 Saffron Ct,185000.0,106,147,136
+212 Sequoia Dr,0.0,107,148,137
+7 N Court Ln,107000.0,108,149,138
+452 Reichmuth Ln,165000.0,109,150,139
+1900 Yaqui Dr,75600.0,110,151,140
+3W Fernwood Dr,109900.0,111,152,141
+123 N Seneca Rd,0.0,1,153,142
+5430 Riverview Dr,0.0,112,154,143
+1830 Passage Ln,147420.0,113,36,144
+515 E Tiger Ave,0.0,114,155,145
+842 Washington St,449950.0,115,156,146
+9260 Woodbury Hwy,2800.0,116,157,147
+107 W Lazy Leaf Ln,0.0,1,158,148
+501 Countryside Ave,0.0,1,159,149
+360 N Aroyo Gran Blvd,0.0,1,160,1
+414 Tecumseh Ln,0.0,117,132,150
+508 State St,0.0,1,161,151
+508 State St,0.0,1,370,151
+4508-10 Walnut St,0.0,1,111,152
+62 Jackson Sellery B Hall,0.0,1,162,1
+67 Shore Dr,218000.0,118,163,153
+1610 Sw D Ave,0.0,1,164,1
+4827 Blackberry Way,210000.0,119,165,154
+2893 W Montecito Dr,216500.0,120,166,155
+1308 Nw High View Dr,0.0,121,167,156
+105 Pinion Cir,152000.0,122,168,157
+25 Richmond Park Dr,198000.0,123,169,158
+5006 Clover St,0.0,124,132,159
+32 Church St,2230000.0,125,170,160
+130 E 31st Ave,430000.0,126,171,161
+25630 Hufsmith Cemetery Rd,0.0,127,172,162
+219 Sunset Pl,0.0,1,173,163
+1205 Nw 190th Pl,226667.0,128,87,164
+1133 4th Ave,0.0,1,174,165
+441 4th Ave SW,0.0,1,175,166
+18 Green St,545000.0,129,176,167
+4100 Queen Emmas Dr,2800000.0,130,177,168
+120 Se 7th St,92100.0,131,46,169
+120 Se 7th St,92100.0,131,178,169
+3725 W Whitendale Ave,0.0,1,179,170
+9889 W Aviara St,0.0,132,180,171
+53 N River St,0.0,1,181,1
+149 4th St,39000.0,133,182,172
+2819 Kate Ave,0.0,1,183,1
+PO Box 647,0.0,1,184,1
+W253N6633 Aspen Ln,0.0,1,185,173
+1468 Noell Blvd,119900.0,134,186,174
+2256 Arlington Ter,510000.0,34,187,175
+2945 Cassidy Pl,290000.0,135,188,176
+1074 Bison Way,439000.0,136,189,177
+15223 Silver Tree Cv,0.0,137,190,178
+24007 W Walnut Cir,190000.0,138,191,179
+2400 Nevin Ave,0.0,1,192,1
+21619 Lemon Beebrush Ln,0.0,1,193,180
+22713 42nd Pl S,0.0,1,194,181
+260 W Van Fleet Dr,0.0,1,195,182
+4633 W 191st St,635000.0,139,196,183
+12103 Buckner Rdg,0.0,140,29,184
+266 Iron Mountain Rd,0.0,1,197,185
+11529 S Joalyce Dr,125000.0,141,198,186
+4 Cape,790000.0,142,199,187
+1036 W Monroe St,635000.0,143,23,188
+11006 Shaw St,469000.0,144,200,189
+19596 Jill Ct,552500.0,145,201,190
+203 W 15th Ave,0.0,1,202,1
+501 Lincoln Dr,420000.0,146,203,191
+8822 Wawana Rd,4800.0,147,204,192
+9872 Clark St,225000.0,148,111,193
+43 Ridge Rd,0.0,1,205,1
+102 W Chestnut St,0.0,1,206,194
+224 Rio Grande Ln,398000.0,149,207,195
+7 Hartford Ct,188650.0,150,208,196
+4498 Highway,0.0,1,209,1
+596 Tincher Hill Rd,0.0,1,210,197
+122 Willow Pond Ln,187000.0,151,211,198
+10 Chatfields Ln,1345563.0,152,212,199
+PO Box 23058,0.0,1,213,1
+340 Roosevelt Way,785000.0,153,214,200
+29841 Barkley St,280000.0,154,215,201
+1002 Linden St,0.0,155,90,202
+6239 Saltsburg Rd,0.0,1,165,1
+2901 N Lakewood Ave Unit E,0.0,1,23,203
+159 Trantham Trl,420000.0,156,216,204
+400 Burney St,0.0,1,217,1
+7816 153rd Ave Apt E,158500.0,157,218,205
+325 S Biscayne Blvd,0.0,1,219,206
+325 S Biscayne Blvd,0.0,1,245,206
+1805 Caffin Ave,35000.0,158,220,207
+1805 Caffin Ave,35000.0,158,248,207
+2909 E Chaparral St,196500.0,159,221,208
+12155 Mesa Verde Trl,97500.0,160,222,209
+1904 Winchester Ln,318000.0,161,223,210
+14 Basket Ln,0.0,1,224,211
+8800 Hunting Ln,0.0,1,225,212
+30 Redfield Cir,0.0,1,226,213
+3006 Sw 23rd St,0.0,1,46,1
+3006 Sw 23rd St,0.0,1,178,1
+8288 Kifer Dr,0.0,1,227,214
+4047 Emory Rd,0.0,162,228,215
+601 W 111th St,30000.0,163,23,1
+65 Norris Ln NE,338000.0,164,229,82
+111 Marquette Ave,0.0,1,230,1
+1511 2nd Ave,0.0,1,231,216
+1817 Jessamine Ave,0.0,1,147,1
+1744 149th St,1370000.0,165,232,217
+40201 San Sebastian Pl,937000.0,166,233,218
+25455 Lindenwood Ln,0.0,1,234,219
+11541 Brook Crossing Ln,98000.0,167,18,220
+11541 Brook Crossing Ln,98000.0,167,235,220
+200 E 74th St,0.0,168,49,221
+333 Chester St,0.0,1,236,1
+609A Luther Dr,0.0,1,237,1
+16270 Dowing Creek Dr,340000.0,169,222,222
+10 Curtis St,449900.0,170,238,223
+448 Winterberry Dr,228000.0,171,239,224
+4015 N Bend Rd,58900.0,172,240,225
+7123 Coldstream Dr,0.0,1,241,226
+434 Conners Ave,2750000.0,173,137,227
+31 Mountain Dr,825000.0,37,242,228
+201 Shari Dr,0.0,1,243,229
+82468 4th St,2500.0,174,244,230
+835 Ne 212th Ter,75500.0,175,219,231
+835 Ne 212th Ter,75500.0,175,245,231
+1012 E 135th Pl,179500.0,176,246,232
+PO Box 142688,0.0,1,247,1
+PO Box 142688,0.0,1,328,1
+2453 Lark St,340000.0,177,220,233
+2453 Lark St,340000.0,177,248,233
+101B Forest Park Dr,0.0,1,249,1
+973 New St,0.0,178,250,234
+5605 Village Glen Dr,0.0,1,64,235
+3602 Grouse Ct,0.0,1,251,236
+6008 Trail Lake Dr,0.0,179,252,237
+11306 S Bell Ave,202000.0,180,23,238
+900 Frances Way,0.0,1,253,1
+2627 Maggiore Cir,206000.0,181,254,239
+104 Willow Creek Dr,160200.0,182,255,240
+433 Blue Jacket Ln,311000.0,183,147,241
+4125 Chapel Hill Dr,270000.0,184,256,242
+3701 N Fruit Ave,0.0,1,257,1
+3200 Riverwood Ln,0.0,1,258,1
+888 Payne Ave,0.0,1,259,1
+PO Box 1318,0.0,1,260,1
+2605 S 1st St,0.0,1,261,1
+900 Meyers Ct,380000.0,185,262,243
+26 Colonial Dr,0.0,1,263,1
+2856 Annandale Rd,110000.0,186,264,244
+6822 Timber Point Cir,0.0,187,265,245
+14311 Addison St,0.0,1,266,1
+1399 Royal Oak Dr,237900.0,188,267,246
+886 Riverlawn Ave Apt B,0.0,1,268,247
+238 E 36th St,0.0,1,26,248
+631 Cooper Ave,0.0,1,269,249
+26 Penn Dr,158000.0,189,270,250
+4100 Aughton Ct,190000.0,190,271,251
+13312 Georgia Ave,235000.0,191,127,252
+228 Golf Club Dr,520000.0,192,272,253
+1705 Greystone Ln,270000.0,193,273,254
+479 Harbor Winds Ct,285000.0,194,271,255
+1604 Red Fox Rd,0.0,195,274,256
+1530 Birdsall St,0.0,196,132,257
+55 Cambridge St,0.0,1,275,1
+700 Sanctuary Cove Dr,0.0,1,276,258
+933 Yorkshire Ln NW,445000.0,197,89,259
+4509 Pinyon Dr,285000.0,198,277,260
+3232 Us Hwy,0.0,1,278,261
+12 Cory Rd,195000.0,199,279,262
+46068 Milton Rd,0.0,1,280,1
+2601 E Ocean Blvd,375000.0,200,281,263
+220 Camelot Dr,0.0,201,282,264
+2255 S University Parks Dr,0.0,202,283,265
+100 N Gatehouse Dr,0.0,1,284,1
+9426 78th St,530000.0,203,285,266
+2401 W Wellesley Ave Ste E,0.0,1,5,1
+7914 Gleason Dr,167900.0,204,286,267
+3306 Laguna Dr,0.0,205,90,268
+215 Lolita St,0.0,1,287,1
+903 Wilma St,64000.0,206,288,269
+5323 N Legion St,0.0,1,289,270
+216A South St,0.0,1,290,271
+896 Colorado Ave Apt D,0.0,1,268,1
+207 E Ohio St,0.0,207,291,272
+207 E Ohio St,0.0,207,367,272
+6307 Nancy Ellen St,0.0,208,292,273
+125 Massachusetts St,0.0,1,293,274
+4251 W Rosecrest Rd,0.0,209,294,275
+95 Martensen St,0.0,1,238,1
+100 Jane St,0.0,1,295,276
+302 N Cole St,0.0,210,18,277
+302 N Cole St,0.0,210,235,277
+136 Periwinkle Ln,318000.0,211,152,278
+3719 Zoo Pkwy,202000.0,212,197,279
+1117 Pecan Cir,210000.0,213,296,280
+10467 Garibaldi Pl,211000.0,214,247,281
+10467 Garibaldi Pl,211000.0,214,328,281
+201 Morrison Springs Rd,99000.0,215,297,282
+38 N Bellevue Ave,23500.0,216,298,283
+2010 Birch Trace Dr,205000.0,217,299,284
+3736 Ivy Green Trl,310000.0,218,84,285
+1301 Commonwealth Ave,0.0,1,300,286
+833 W 13th St,0.0,1,301,1
+605 Spoleto Ct,306000.0,219,302,287
+1226 Farm Rd,0.0,1,303,1
+1657 Westward Dr,0.0,1,304,288
+8401 W Charlstn Blvd,0.0,1,24,1
+24 Ambleside Crescent Dr,0.0,220,305,289
+527 Beach Club Trl,640000.0,221,306,290
+347 E Montcastle Dr,49000.0,222,307,291
+39468 Via,380000.0,223,308,292
+6098 N Carica Ave,82009.0,224,257,293
+1720 W Main St,320000.0,225,179,294
+2466 Payne Cir W,240000.0,226,105,295
+1222 3rd Ave,50000.0,227,309,296
+6357 Domenico Ct,221699.0,228,310,297
+7424 88th Ave,199750.0,229,311,298
+8324 Cutter Hill Ave,0.0,230,252,299
+1700 Coronet Ave,0.0,231,312,300
+4087 N Shirley Ln,0.0,232,313,301
+114 13th Ave S,0.0,1,314,1
+7384 Barberry Ave,130000.0,233,315,302
+301 S 14th St,44945.0,234,316,303
+401 Barry Mccaffrey Blvd,142000.0,235,317,304
+14804 Castletown House Dr,163000.0,236,134,305
+8 N May Ave,280000.0,237,318,306
+5012 Abbott Ave N,237000.0,238,230,307
+5888 S Fork Rd,0.0,239,319,308
+11522 Gaymoor Dr,0.0,240,132,309
+7411 Bush Lake Dr,0.0,1,230,310
+13633 Se 5th St,4250000.0,241,320,311
+9377 Glenforest Dr,630000.0,242,137,312
+7764 Botany St,460000.0,243,321,313
+1033 N Lime St,185000.0,244,140,314
+1033 N Lime St,185000.0,244,322,314
+2615 Whitehall Ter,0.0,1,323,315
+1501 Cedar Elm Dr,0.0,245,324,316
+20 Maryland Ave,231500.0,246,325,317
+680 W Capstone Ct,0.0,1,326,1
+2120 Hidden Creek Rd,0.0,247,252,318
+41 Pepperbush Rd,65000.0,248,327,319
+6737 High Cir,162500.0,249,247,320
+6737 High Cir,162500.0,249,328,320
+8517 65th Dr,855000.0,250,329,321
+6329 Gold St,44290.0,251,132,322
+9207 Proclamation Dr,0.0,252,29,323
+123 Golden Ln,0.0,1,330,324
+725 Gibraltar Rd,271000.0,253,331,325
+635 S Howard St,330000.0,220,332,326
+PO Box 112,0.0,1,333,1
+923 Se 34th Ter,110000.0,254,334,327
+2314 Hidden Hill Dr,0.0,255,335,328
+3937 Carthage Rd,140000.0,256,336,329
+254 El Dorado Dr,1335000.0,257,337,330
+127 Brambach Rd,1620000.0,258,338,331
+5306 W 132nd Ter,0.0,1,339,332
+7207 Cooper Ln,0.0,259,90,333
+1521 Abaco Cay Ln,0.0,1,340,334
+1224 E 35th St,450000.0,260,288,335
+1279 Collins Ave,0.0,1,341,1
+2000 Dodson Ave,165000.0,261,297,336
+1409 7th Ave,0.0,262,342,337
+311 8th St,1180000.0,263,343,338
+507 W Main St,0.0,1,344,339
+1502 Tara Ct,398147.0,264,345,340
+3507 W Capitol Ave,56335.0,265,346,341
+6412 Platt Ave,89500.0,266,347,1
+14717 Hampshire Dr,61327.0,267,348,342
+1839 Tawny Ash Dr,135000.0,268,247,343
+1839 Tawny Ash Dr,135000.0,268,328,343
+457 Ray Ln,0.0,1,349,344
+11413 Gravenhurst Dr,145000.0,269,240,345
+3331 N Harvard Ave,87000.0,259,350,346
+1931 Staunton Ave NW,26200.0,270,351,347
+7840 Olive Grove Ave,0.0,1,352,348
+97 Foster St,452000.0,271,353,349
+3110 Clearwood Ln,0.0,272,354,350
+6042 Pebble Beach Dr,0.0,1,132,351
+1100 Terra Way,595000.0,273,79,352
+1100 Terra Way,595000.0,273,355,352
+7717 Ivanhoe Ave,0.0,1,356,353
+1724 E 18th Ave,98000.0,274,5,354
+343 Travis Blvd,0.0,1,357,1
+121 Port Royal Dr,80000.0,275,358,355
+164 Lee Rd,0.0,1,359,356
+2009 Foerster Dr,0.0,276,54,1
+7057 Lakehaven Dr,0.0,1,79,1
+7057 Lakehaven Dr,0.0,1,355,1
+7563 Talus Ridge Dr,515000.0,277,105,357
+205 Camino Real,810000.0,278,360,358
+5870 Mirror Lakes Blvd,160000.0,279,361,359
+PO Box 11,0.0,1,362,1
+3314 Cameron St,0.0,280,363,360
+2698 Lowell Ave,15000.0,281,222,361
+3767 N 192nd Ave,0.0,1,364,362
+3767 N 192nd Ave,0.0,1,381,362
+2915 S Del Norte Ave,0.0,1,221,363
+225 E 8th Ave,230000.0,282,365,364
+4142 W Kaler Dr,0.0,1,31,365
+6240 Brewer Ave,101500.0,283,366,366
+402 Ocean Pkwy,0.0,1,291,1
+402 Ocean Pkwy,0.0,1,367,1
+106B Brentwood Cir,0.0,1,52,367
+106B Brentwood Cir,0.0,1,368,367
+730 Heller Ct,735000.0,221,369,368
+125 Pashley Rd,0.0,1,161,369
+125 Pashley Rd,0.0,1,370,369
+653 W University Dr,0.0,1,141,1
+4667 Haverhill St,84900.0,284,371,370
+1683 E 22nd St,850500.0,285,291,371
+1683 E 22nd St,850500.0,285,367,371
+17030 Philomene Blvd,186000.0,286,372,372
+3925 Buena Vista Dr,2100000.0,287,373,1
+2120 Crestwind Ct,0.0,288,374,373
+1530 W Intruder Cir,0.0,1,277,1
+1446 Jim Bridger Ave,0.0,289,375,374
+508 N 5th St,600.0,290,376,375
+1145 E Eva St,0.0,1,31,1
+1018 Missouri St,0.0,1,377,376
+1319 Ferndale St,0.0,1,29,377
+4218 Longview Ave,225500.0,195,378,378
+3440 W 70th St,300000.0,291,379,1
+13051 Sunbird Dr,103000.0,292,380,379
+5255 S 48th Ave,0.0,1,364,380
+5255 S 48th Ave,0.0,1,381,380
+5436 Clark Rd,0.0,1,382,381
+3466 Deer Creek Palladian Cir,310000.0,293,383,382
+2430 Evalon St,0.0,294,384,383
+347 S 300 E,0.0,1,385,384
+7825 Cohn St,234000.0,295,220,385
+7825 Cohn St,234000.0,295,248,385
+187 Walnut Dr,40000.0,198,386,386
+2432 Tattersall Dr,120000.0,296,387,82
+18 Silk St,0.0,1,388,387
+1704 Marlyn Dr,108000.0,297,346,388
+5751 W Irving Park Rd,0.0,1,23,1
+19607 Lanfranca Dr,669000.0,298,389,389
+1B Wilbur St,0.0,1,86,1
+533 Mount Olympus Blvd,165000.0,299,272,390
+7200 Grace Rd,225000.0,300,147,391
+210 Fox Hall Rd,0.0,1,390,1
+3278 N Dousman St,0.0,1,391,1
+2342 17th Ave NW,305000.0,301,259,392
+6732 47th Ave,0.0,1,392,393
+46 Nancy Ln,116000.0,302,393,394
+2209 Adler Ln,165000.0,303,394,395
+1700 W Government St,0.0,1,395,1
+11206 Monroe Ct,0.0,304,49,396
+3407 Macdonald Ave,0.0,1,192,1
+1324 N 26th St,0.0,1,111,397
+6619 S Kedvale Ave,203000.0,305,23,398
+2811 Highway,50000.0,306,396,399
+504 Scott St,0.0,307,397,400
+315 Cherokee St,63000.0,308,197,401
+2507 Mishas Meadow Way,0.0,1,286,402
+5250 Fawn Trl,174500.0,309,398,403
+5567 Butternut St,0.0,310,64,404
+8688 Tomnitz Ave,58000.0,311,24,405
+8804 Frostwood Ct,310000.0,312,399,406
+3812 Verde Vista St S,142000.0,313,179,407
+131 Wood St,0.0,1,400,1
+788 Riverbrook Ln,0.0,1,401,408
+734 Loring Ave,0.0,1,105,1
+66 Eaton Pl,0.0,1,402,409
+190 Ne Suwannee Trl,170000.0,314,403,410
+500 Rams Blvd,0.0,1,404,1
