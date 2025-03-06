@@ -1,405 +1,417 @@
 location_id,city,county,state
-1,Oklahoma City,Oklahoma,OK
-2,Spring Grove,McHenry,IL
-3,Pocahontas,Pocahontas,IA
-4,Schaumburg,Cook,IL
-5,Spokane,Spokane,WA
-6,Hitchcock,Galveston,TX
-7,Bronx,Bronx,NY
-8,Seneca,Grant,OR
-9,Lincoln,Lancaster,NE
-10,Lubbock,Lubbock,TX
-11,Granite Bay,Placer,CA
-12,Lithonia,Dekalb,GA
-13,Waynesville,Haywood,NC
-14,Deland,Volusia,FL
-15,Concord,Cabarrus,NC
-16,Montgomery,Montgomery,AL
-17,Joplin,Jasper,MO
-18,Indianapolis,Marion,IN
-19,Wheat Ridge,Jefferson,CO
-20,Kokomo,Howard,IN
-21,Fall River,Bristol,MA
-22,East Wenatchee,Douglas County,WA
-23,Chicago,Cook,IL
-24,Las Vegas,Clark,NV
-25,Columbia,Lancaster,PA
-26,New York,New York,NY
-27,Biloxi,Harrison,MS
-28,Bessemer,Jefferson,AL
-29,San Antonio,Bexar,TX
-30,Clewiston,Hendry,FL
-31,Phoenix,Maricopa,AZ
-32,Frisco,Denton,TX
-33,Gladstone,Clackamas,OR
-34,Middle River,Baltimore,MD
-35,Stephenville,Erath,TX
-36,Columbus,Franklin,OH
-37,Rockaway Park,Queens,NY
-38,College Station,Brazos,TX
-39,Buffalo,Erie,NY
-40,Danville,Boyle,KY
-41,Columbia Heights,Anoka,MN
-42,Nottingham,Baltimore,MD
-43,Palm Bay,Brevard,FL
-44,San Bernardino,San Bernardino,CA
-45,Belmont,Gaston,NC
-46,Gainesville,Hall,GA
-47,West Chester,Butler,OH
-48,Crete,Will,IL
-49,Kansas City,Jackson,MO
-50,Bountiful,Davis,UT
-51,Severn,Anne Arundel,MD
-52,Greenville,Pitt,NC
-53,Mount Vernon,Westchester,NY
-54,Arnold,Jefferson,MO
-55,Stratford,Camden,NJ
-56,Fairfax,Fairfax,VA
-57,Syracuse,Davis,UT
-58,Lowell,Lake,IN
-59,Gambrills,Anne Arundel,MD
-60,Altoona,Blair,PA
-61,Novi,Oakland,MI
-62,Manahawkin,Ocean,NJ
-63,Orange Park,Clay,FL
-64,Dallas,Dallas,TX
-65,Lakeway,Travis,TX
-66,Washington,District Of Columbia,DC
-67,Corbin,Whitley,KY
-68,Sumter,Sumter,SC
-69,Big Sky,Gallatin,MT
-70,Saint Charles,Saint Charles,MO
-71,El Cajon,San Diego,CA
-72,Memphis,Shelby,TN
-73,Denham Springs,Livingston,LA
-74,Winston Salem,Forsyth,NC
-75,Nashville,Davidson,TN
-76,Sisters,Deschutes,OR
-77,Morton Grove,Cook,IL
-78,Lawrence,Washington,PA
-79,Roseville,Macomb,MI
-80,West Bend,Washington,WI
-81,Oklahoma City,Cleveland,OK
-82,Twin Peaks,San Bernardino,CA
-83,Los Angeles,Los Angeles,CA
-84,Tallahassee,Leon,FL
-85,Eagle Point,Jackson,OR
-86,Worcester,Worcester,MA
-87,Edmond,Oklahoma,OK
-88,Eastpointe,Macomb,MI
-89,Rochester,Olmsted,MN
-90,Austin,Travis,TX
-91,Culver City,Los Angeles,CA
-92,Auburn,Placer,CA
-93,Terre Haute,Vigo,IN
-94,Kenilworth,Cook,IL
-95,Ocean Springs,Jackson,MS
-96,Kalamazoo,Kalamazoo,MI
-97,Lakewood,Pierce,WA
-98,Weeki Wachee,Hernando,FL
-99,Ray City,Berrien,GA
-100,Oak Island,Brunswick,NC
-101,New Caney,Montgomery,TX
-102,Blackstone,Worcester,MA
-103,Oshkosh,Winnebago,WI
-104,Lansdale,Montgomery,PA
-105,Colorado Springs,El Paso,CO
-106,Northville,Wayne,MI
-107,Arrington,Williamson,TN
-108,Alvin,Brazoria,TX
-109,Bozeman,Gallatin,MT
-110,Big Spring,Howard,TX
-111,Philadelphia,Philadelphia,PA
-112,Grove City,Franklin,OH
-113,Stuart,Martin,FL
-114,Dundalk,Baltimore,MD
-115,Lakewood,Jefferson,CO
-116,Royersford,Montgomery,PA
-117,Oakland,Alameda,CA
-118,Goodyear,Maricopa,AZ
-119,High Point,Guilford,NC
-120,Urbandale,Polk,IA
-121,Burnsville,Dakota,MN
-122,Atlanta,Fulton,GA
-123,Hillsboro,Washington,OR
-124,Revere,Suffolk,MA
-125,Ararat,Surry,NC
-126,Merced,Merced,CA
-127,Silver Spring,Montgomery,MD
-128,Pottsboro,Grayson,TX
-129,Glastonbury,Hartford,CT
-130,Midway,Liberty,GA
-131,Diamond Bar,Los Angeles,CA
-132,Houston,Harris,TX
-133,Discovery Bay,Contra Costa,CA
-134,Charlotte,Mecklenburg,NC
-135,Birmingham,Jefferson,AL
-136,Defuniak Springs,Walton,FL
-137,Naples,Collier,FL
-138,La Canada Flintridge,Los Angeles,CA
-139,Orange,Orange,CA
-140,Lancaster,Coos,NH
-141,Mesa,Maricopa,AZ
-142,Baltimore,Baltimore City,MD
-143,Hartford,Hartford,CT
-144,Mint Hill,Mecklenburg,NC
-145,Whites Creek,Davidson,TN
-146,Westfield,Hamilton,IN
-147,Orlando,Orange,FL
-148,Forney,Kaufman,TX
-149,Levittown,Bucks,PA
-150,Shepherdsville,Bullitt,KY
-151,Florissant,Saint Louis,MO
-152,Bolingbrook,Will,IL
-153,Oak Ridge,Anderson,TN
-154,Robstown,Nueces,TX
-155,Post Falls,Kootenai,ID
-156,Port Townsend,Jefferson,WA
-157,Manchester,Coffee,TN
-158,Hot Springs National Park,Garland,AR
-159,Rexburg,Madison County,ID
-160,Henderson,Clark,NV
-161,Schenectady,Schenectady County,NY
-162,Madison,Dane,WI
-163,Mastic Beach,Suffolk,NY
-164,Lawton,Comanche,OK
-165,Pittsburgh,Allegheny,PA
-166,Rialto,San Bernardino,CA
-167,Grain Valley,Jackson,MO
-168,Lafayette,Lafayette,LA
-169,Phenix City,Russell,AL
-170,Charleston,Charleston,SC
-171,Eugene,Lane,OR
-172,Tomball,Harris,TX
-173,Neillsville,Clark,WI
-174,Grafton,Ozaukee,WI
-175,Castle Rock,Cowlitz,WA
-176,Medfield,Norfolk,MA
-177,Princeville,Kauai,HI
-178,Gainesville,Alachua,FL
-179,Visalia,Tulare,CA
-180,Star,Ada,ID
-181,Wilkes Barre,Luzerne,PA
-182,Conemaugh,Cambria,PA
-183,Bensalem,Bucks,PA
-184,Forest Park,Cook,IL
-185,Sussex,Waukesha,WI
-186,Palm Harbor,Pinellas,FL
-187,Alexandria,Fairfax,VA
-188,Waldorf,Charles,MD
-189,Salinas,Monterey,CA
-190,Von Ormy,Bexar,TX
-191,Plainfield,Will,IL
-192,Richmond,Contra Costa,CA
-193,Katy,Harris,TX
-194,Kent,King County,WA
-195,Bartow,Polk,FL
-196,Torrance,Los Angeles,CA
-197,Asheboro,Randolph,NC
-198,Alsip,Cook,IL
-199,Newport Beach,Orange,CA
-200,Rancho Cucamonga,San Bernardino,CA
-201,Riverside,Riverside,CA
-202,Anchorage,Anchorage,AK
-203,Glen Burnie,Anne Arundel,MD
-204,North Port,Sarasota,FL
-205,North Arlington,Bergen,NJ
-206,Petersburg,Monroe,MI
-207,Willow Spring,Wake,NC
-208,Hattiesburg,Lamar,MS
-209,Murrells Inlet,Horry,SC
-210,Beattyville,Lee,KY
-211,Ponte Vedra Beach,Saint Johns,FL
-212,East Hampton,Suffolk,NY
-213,Owensboro,Daviess,KY
-214,San Francisco,San Francisco,CA
-215,Livonia,Wayne,MI
-216,Clayton,Johnston,NC
-217,Modesto,Stanislaus,CA
-218,Howard Beach,Queens,NY
-219,Miami,Miami-Dade County,FL
-220,New Orleans,Orleans Parish,LA
-221,Ontario,San Bernardino,CA
-222,Jacksonville,Duval,FL
-223,Petaluma,Sonoma,CA
-224,Hicksville,Nassau,NY
-225,Laurel,Prince George's,MD
-226,Derry,Rockingham,NH
-227,Newburgh,Warrick,IN
-228,El Paso,El Paso,TX
-229,Winnabow,Brunswick,NC
-230,Minneapolis,Hennepin,MN
-231,Wilmington,New Castle,DE
-232,Whitestone,Queens,NY
-233,Fremont,Alameda,CA
-234,Southfield,Oakland,MI
-235,Indianapolis,Hancock,IN
-236,Glendale,Los Angeles,CA
-237,Georgetown,Williamson,TX
-238,Quincy,Norfolk,MA
-239,Yorkville,Kendall,IL
-240,Cincinnati,Hamilton,OH
-241,Pasadena,Harris,TX
-242,West Orange,Essex,NJ
-243,Peculiar,Cass,MO
-244,Trona,San Bernardino,CA
-245,Miami,Miami-Dade,FL
-246,Glenpool,Tulsa,OK
-247,Saint Louis,Saint Louis,MO
-248,New Orleans,Orleans,LA
-249,Forest,Bedford,VA
-250,Macon,Bibb,GA
-251,Durham,Durham,NC
-252,Fort Worth,Tarrant,TX
-253,Richardson,Dallas,TX
-254,Kissimmee,Osceola,FL
-255,Peachtree City,Fayette,GA
-256,Jonesboro,Craighead,AR
-257,Fresno,Fresno,CA
-258,Roswell,Fulton,GA
-259,Saint Paul,Ramsey,MN
-260,Hurst,Tarrant,TX
-261,Lufkin,Angelina,TX
-262,Brentwood,Contra Costa,CA
-263,Edgerton,Williams,OH
-264,Falls Church,Fairfax,VA
-265,Horn Lake,Desoto,MS
-266,Sherman Oaks,Los Angeles,CA
-267,Lewis Center,Delaware,OH
-268,Chula Vista,San Diego,CA
-269,Oradell,Bergen,NJ
-270,West Hartford,Hartford,CT
-271,Winter Springs,Seminole,FL
-272,New Smyrna Beach,Volusia,FL
-273,Loganville,Walton,GA
-274,Wichita Falls,Wichita,TX
-275,Burlington,Middlesex,MA
-276,West Palm Beach,Palm Beach,FL
-277,Virginia Beach,Virginia Beach City,VA
-278,Valdosta,Lowndes,GA
-279,Morristown,Morris,NJ
-280,Hammond,Tangipahoa,LA
-281,Long Beach,Los Angeles,CA
-282,Weldon Spring,Saint Charles,MO
-283,Waco,McLennan,TX
-284,Metairie,Jefferson,LA
-285,Ozone Park,Queens,NY
-286,Knoxville,Knox,TN
-287,Encinitas,San Diego,CA
-288,Savannah,Chatham,GA
-289,Wichita,Sedgwick,KS
-290,Boston,Suffolk,MA
-291,Brooklyn,Morgan,IN
-292,Amarillo,Randall,TX
-293,Highland Park,Wayne,MI
-294,Herriman,Salt Lake,UT
-295,Manhattan,New York,NY
-296,Rock Hill,York,SC
-297,Chattanooga,Hamilton,TN
-298,Atlantic City,Atlantic,NJ
-299,Youngstown,Mahoning,OH
-300,West Newton,Middlesex,MA
-301,Riviera Beach,Palm Beach,FL
-302,Swansboro,Onslow,NC
-303,Monett,Lawrence,MO
-304,Miami Springs,Miami-Dade,FL
-305,Sugar Land,Fort Bend,TX
-306,Gulf Shores,Baldwin,AL
-307,Greensboro,Guilford,NC
-308,Murrieta,Riverside,CA
-309,Duncansville,Blair,PA
-310,Groveland,Lake,FL
-311,Woodhaven,Queens,NY
-312,Aubrey,Denton,TX
-313,Eagle Mountain,Utah,UT
-314,Nampa,Canyon,ID
-315,Yucca Valley,San Bernardino,CA
-316,Muskogee,Muskogee,OK
-317,Hinesville,Liberty,GA
-318,Athens,Athens,OH
-319,Kamas,Summit,UT
-320,Bellevue,King,WA
-321,Chino,San Bernardino,CA
-322,Lancaster,Lancaster,PA
-323,Louisville,Jefferson,KY
-324,Euless,Tarrant,TX
-325,Pawtucket,Providence,RI
-326,Hayden,Kootenai,ID
-327,Brevard,Transylvania,NC
-328,Saint Louis,Saint Louis City,MO
-329,Rego Park,Queens,NY
-330,Crab Orchard,Raleigh,WV
-331,Reading,Berks,PA
-332,Tacoma,Pierce,WA
-333,Richland,Kalamazoo,MI
-334,Cape Coral,Lee,FL
-335,Killeen,Bell,TX
-336,Randallstown,Baltimore,MD
-337,Pacifica,San Mateo,CA
-338,Scarsdale,Westchester,NY
-339,Overland Park,Johnson County,KS
-340,Apopka,Orange,FL
-341,Marysville,Union,OH
-342,Lewiston,Nez Perce,ID
-343,International Falls,Koochiching,MN
-344,Olney,Young,TX
-345,Lebanon,Wilson,TN
-346,Little Rock,Pulaski,AR
-347,West Hills,Los Angeles,CA
-348,Pride,East Baton Rouge,LA
-349,Ashland,Jackson County,OR
-350,Peoria,Peoria,IL
-351,Roanoke,Roanoke City,VA
-352,Melbourne,Brevard,FL
-353,New Haven,New Haven,CT
-354,Rowlett,Dallas,TX
-355,Roseville,Placer,CA
-356,La Jolla,San Diego County,CA
-357,Fairfield,Solano,CA
-358,Toms River,Ocean County,NJ
-359,Opelika,Lee,AL
-360,Fort Collins,Larimer,CO
-361,Boynton Beach,Palm Beach,FL
-362,Harbor City,Los Angeles,CA
-363,San Angelo,Tom Green,TX
-364,Omaha,Douglas County,NE
-365,Longmont,Boulder,CO
-366,Clemmons,Forsyth,NC
-367,Brooklyn,Kings,NY
-368,Greenville,Greenville,SC
-369,Lathrop,San Joaquin,CA
-370,Schenectady,Schenectady,NY
-371,Detroit,Wayne,MI
-372,Allen Park,Wayne,MI
-373,Paso Robles,San Luis Obispo,CA
-374,Pearland,Brazoria,TX
-375,Casper,Natrona,WY
-376,Haines City,Polk,FL
-377,Norman,Cleveland,OK
-378,Hope Mills,Cumberland,NC
-379,Shreveport,Caddo,LA
-380,Moreno Valley,Riverside,CA
-381,Omaha,Douglas,NE
-382,Paradise,Butte,CA
-383,Deerfield Beach,Broward,FL
-384,Beaumont,Jefferson,TX
-385,Salt Lake City,Salt Lake,UT
-386,Kingston Springs,Cheatham,TN
-387,Harvey,Jefferson,LA
-388,Arlington,Middlesex County,MA
-389,Santa Clarita,Los Angeles,CA
-390,Mountain Brk,Jefferson,AL
-391,Milwaukee,Milwaukee,WI
-392,Woodside,Queens,NY
-393,Fort Myers Beach,Lee,FL
-394,Vineland,Cumberland,NJ
-395,Brandon,Rankin,MS
-396,White House,Sumner,TN
-397,Baytown,Harris,TX
-398,Cookeville,Overton,TN
-399,Tampa,Hillsborough,FL
-400,New Bedford,Bristol,MA
-401,Napoleon,Henry,OH
-402,Bear,New Castle,DE
-403,Mayo,Lafayette,FL
-404,Russell,Greenup,KY
+1,Detroit,Wayne,MI
+2,Riverside,Riverside,CA
+3,San Francisco,San Francisco,CA
+4,Seminole,Gaines,TX
+5,Garden City,Finney,KS
+6,Elk Grove,Sacramento,CA
+7,Irmo,Richland,SC
+8,East Orange,Essex,NJ
+9,Washington,District Of Columbia,DC
+10,Desoto,Dallas,TX
+11,Fort Mill,York,SC
+12,Johnston,Providence,RI
+13,Nashville,Davidson,TN
+14,New York,New York,NY
+15,Dallas,Dallas,TX
+16,Baltimore,Baltimore,MD
+17,Miller Place,Suffolk,NY
+18,Panama City,Bay,FL
+19,Columbus,Bartholomew,IN
+20,Houston,Fort Bend,TX
+21,Brandon,Hillsborough,FL
+22,Little Rock,Pulaski,AR
+23,Palm Bay,Brevard,FL
+24,Colorado Springs,El Paso,CO
+25,Ringgold,Catoosa,GA
+26,Surprise,Maricopa,AZ
+27,Reston,Fairfax,VA
+28,Chicago,Cook,IL
+29,Austin,Travis,TX
+30,Sierra Vista,Cochise,AZ
+31,Highland Park,Lake,IL
+32,Staten Island,Richmond,NY
+33,Florissant,Saint Louis,MO
+34,Miami Gardens,Miami-Dade,FL
+35,District Heights,Prince Georges,MD
+36,Albany,Albany,NY
+37,Leesburg,Lake,FL
+38,Fort Myers Beach,Lee,FL
+39,Papillion,Sarpy,NE
+40,Los Angeles,Los Angeles,CA
+41,Decatur,DeKalb,GA
+42,Salem,Essex,MA
+43,Minneapolis,Hennepin,MN
+44,Baltimore,Baltimore City,MD
+45,Portland,Multnomah,OR
+46,Worcester,Worcester,MA
+47,Ennis,Ellis,TX
+48,El Sobrante,Contra Costa,CA
+49,Richlands,Onslow,NC
+50,Methuen,Essex,MA
+51,Lagrange,Troup,GA
+52,Fulton,Howard,MD
+53,Delray Beach,Palm Beach,FL
+54,Kalamazoo,Kalamazoo,MI
+55,Corpus Christi,Nueces,TX
+56,Saint Peter,Nicollet,MN
+57,Phoenix,Maricopa,AZ
+58,Antioch,Contra Costa,CA
+59,Knoxville,Knox,TN
+60,Harrison,Boone,AR
+61,Victoria,Victoria,TX
+62,Gray,Washington County,TN
+63,Chesnee,Spartanburg,SC
+64,Saint Louis,Saint Louis City,MO
+65,Cape Girardeau,Cape Girardeau,MO
+66,Pine Bluff,Jefferson,AR
+67,Myrtle Beach,Horry,SC
+68,Kissimmee,Osceola,FL
+69,Miami,Miami-Dade,FL
+70,Glen Burnie,Anne Arundel,MD
+71,Port Charlotte,Charlotte,FL
+72,Lynden,Whatcom,WA
+73,San Diego,San Diego,CA
+74,Breckenridge,Summit,CO
+75,Montgomery,Montgomery,TX
+76,Lithonia,Dekalb,GA
+77,Loveland,Larimer,CO
+78,Dodge City,Ford,KS
+79,Mcallen,Hidalgo,TX
+80,Weslaco,Hidalgo,TX
+81,Fairburn,Fulton,GA
+82,Lauderhill,Broward,FL
+83,Springfield,Delaware,PA
+84,Condon,Not available,MT
+85,Torrington,Litchfield,CT
+86,Pinellas Park,Pinellas,FL
+87,Amarillo,Potter,TX
+88,Panora,Guthrie,IA
+89,Clarksville,Red River,TX
+90,Gaithersburg,Montgomery,MD
+91,Harrisburg,Dauphin,PA
+92,Berwyn,Cook,IL
+93,View Park,Los Angeles,CA
+94,Durham,Durham,NC
+95,Lancaster,Lancaster,SC
+96,Springfield,Union,NJ
+97,Westminster,Carroll,MD
+98,Gulfport,Harrison,MS
+99,Madison,Madison,MS
+100,Jamestown,Newport,RI
+101,Orangevale,Sacramento,CA
+102,Sacramento,Sacramento,CA
+103,Winter Park,Orange,FL
+104,Louisville,Jefferson,KY
+105,Oviedo,Seminole,FL
+106,Freeport,Walton,FL
+107,Brooklyn,Kings,NY
+108,Champaign,Champaign,IL
+109,Moreno Valley,Riverside,CA
+110,Plymouth,Plymouth,MA
+111,Mission Hills,Johnson,KS
+112,Manchester,Carroll,MD
+113,Rancho Cucamonga,San Bernardino,CA
+114,Norman,Cleveland,OK
+115,Hickory,Catawba,NC
+116,Carrollton,Denton,TX
+117,Burlington,Alamance,NC
+118,Watkinsville,Oconee,GA
+119,Spring,Harris,TX
+120,Largo,Pinellas,FL
+121,Converse,Bexar,TX
+122,Mansfield,Tarrant,TX
+123,Henderson,Clark,NV
+124,Antioch,Davidson,TN
+125,Timnath,Larimer,CO
+126,Chattanooga,Hamilton,TN
+127,Boise,Ada,ID
+128,Antioch,Lake,IL
+129,Krum,Denton,TX
+130,Simi Valley,Ventura,CA
+131,Mccalla,Tuscaloosa,AL
+132,Tacoma,Pierce,WA
+133,New Buffalo,Berrien,MI
+134,Pico Rivera,Los Angeles,CA
+135,Cedar Hill,Dallas,TX
+136,Superior,Boulder,CO
+137,Clemmons,Davidson,NC
+138,Rehoboth Beach,Sussex,DE
+139,Holly Springs,Wake,NC
+140,Delhi Charter Township,Ingham,MI
+141,Georgetown,Georgetown,SC
+142,Franklin Square,Nassau,NY
+143,Williamsburg,James City,VA
+144,Ormond Beach,Volusia,FL
+145,Woodbury,Nassau,NY
+146,Keene,Johnson,TX
+147,Ogdensburg,Saint Lawrence,NY
+148,The Villages,Lake,FL
+149,Charlotte,Mecklenburg,NC
+150,Sunset,Saint Landry,LA
+151,Lumberton,Hardin,TX
+152,Philadelphia,Philadelphia,PA
+153,New Orleans,Orleans,LA
+154,Columbia,Richland,SC
+155,Loveland,Warren,OH
+156,Garland,Dallas,TX
+157,New Palestine,Hancock,IN
+158,North Miami,Miami-Dade,FL
+159,Columbia,Howard,MD
+160,Seymour,Sevier,TN
+161,Coatesville,Chester,PA
+162,Columbus,Franklin,OH
+163,Oak Island,Brunswick,NC
+164,Edgar,Carbon,MT
+165,Trenton,Mercer,NJ
+166,Scottsdale,Maricopa,AZ
+167,Toms River,Ocean,NJ
+168,Houston,Harris,TX
+169,Sunnyvale,Santa Clara,CA
+170,Jenks,Tulsa,OK
+171,Falls Church,Fairfax,VA
+172,Portland,Washington,OR
+173,Alhambra,Los Angeles,CA
+174,Charleston,Charleston,SC
+175,Kenosha,Kenosha,WI
+176,Cleveland,Cuyahoga,OH
+177,Perth,Fulton County,NY
+178,Pompano Beach,Broward,FL
+179,Trinity,Trinity,TX
+180,Saint Paul,Dakota,MN
+181,Imperial Beach,San Diego,CA
+182,Orlando,Orange,FL
+183,Bossier City,Bossier,LA
+184,Warren,Trumbull,OH
+185,Fort Myers,Lee,FL
+186,Roslyn,Nassau,NY
+187,New Braunfels,Comal,TX
+188,Romeoville,Will,IL
+189,Maryville,Blount,TN
+190,Leland,Brunswick,NC
+191,Fayetteville,Cumberland,NC
+192,Columbia,Lancaster,PA
+193,Palm Coast,Flagler,FL
+194,Latham,Logan,IL
+195,Overland Park,Johnson,KS
+196,Richmond,Contra Costa,CA
+197,Choctaw,Oklahoma,OK
+198,Spokane,Spokane,WA
+199,San Bernardino,San Bernardino,CA
+200,Millville,Sussex,DE
+201,Georgetown,Scott,KY
+202,Mount Pleasant,Isabella,MI
+203,Atlanta,Fulton,GA
+204,Birmingham,Jefferson,AL
+205,Quincy,Adams,IL
+206,High Bridge,Hunterdon,NJ
+207,Burlington,Des Moines,IA
+208,Skokie,Cook,IL
+209,Ayer,Middlesex,MA
+210,Durango,La Plata,CO
+211,Nelsonville,Athens,OH
+212,Cypress,Harris,TX
+213,Cambridge,Guernsey,OH
+214,Van,Van Zandt,TX
+215,Grafton,Lorain,OH
+216,Grand Forks,Grand Forks,ND
+217,Tucson,Pima,AZ
+218,Hermitage,Davidson,TN
+219,Richardson,Collin,TX
+220,Gordonville,Grayson County,TX
+221,Crystal River,Citrus,FL
+222,San Antonio,Bexar,TX
+223,Troy,Rensselaer,NY
+224,Mamaroneck,Westchester,NY
+225,Gilbertsville,Montgomery,PA
+226,Braselton,Jackson,GA
+227,Warren,Macomb,MI
+228,Broken Arrow,Tulsa,OK
+229,Mount Joy,Lancaster,PA
+230,Colfax,Placer,CA
+231,Powers,Coos,OR
+232,Parrish,Manatee,FL
+233,Chandler,Maricopa,AZ
+234,Redford,Wayne,MI
+235,Yardley,Bucks,PA
+236,Irvine,Orange,CA
+237,Evansville,Vanderburgh,IN
+238,Franklin,Warren,OH
+239,Locust Grove,Henry,GA
+240,Rochester,Monroe,NY
+241,Auburn,Lee County,AL
+242,Folsom,Sacramento,CA
+243,Leander,Williamson,TX
+244,Bergenfield,Bergen,NJ
+245,Cedarburg,Ozaukee,WI
+246,Pipe Creek,Bandera,TX
+247,Cape Coral,Lee,FL
+248,Gilbert,Maricopa,AZ
+249,Lusby,Calvert,MD
+250,Ashburn,Loudoun,VA
+251,Pittsboro,Chatham,NC
+252,Nahant,Essex,MA
+253,Northport,Tuscaloosa,AL
+254,Bessemer,Jefferson,AL
+255,Las Vegas,Clark,NV
+256,Laurel,Howard,MD
+257,Chittenango,Madison,NY
+258,Lithia Springs,Douglas,GA
+259,Stamford,Fairfield,CT
+260,North Eastham,Barnstable,MA
+261,Sandy,Salt Lake,UT
+262,Riverdale,Morris,NJ
+263,Akron,Summit,OH
+264,Valley,Spokane,WA
+265,Canton,Stark,OH
+266,Fort Pierce,Saint Lucie,FL
+267,Alpharetta,Fulton County,GA
+268,Statesville,Iredell,NC
+269,Canyon Lake,Comal,TX
+270,San Jose,Santa Clara,CA
+271,Burnsville,Yancey,NC
+272,Chesapeake,Chesapeake City,VA
+273,Somerville,Middlesex,MA
+274,Florence,Pinal,AZ
+275,Deshler,Henry,OH
+276,Hazard,Perry,KY
+277,Tyler,Smith,TX
+278,Damascus,Multnomah,OR
+279,Redding,Shasta,CA
+280,Ashland City,Cheatham,TN
+281,Denver,Denver,CO
+282,Indianapolis,Marion,IN
+283,Cayucos,San Luis Obispo,CA
+284,Lincoln Park,Wayne,MI
+285,Horizon City,El Paso,TX
+286,Jemison,Chilton,AL
+287,Macon,Bibb,GA
+288,Lewistown,Fergus,MT
+289,Vista,San Diego,CA
+290,Augusta,Richmond,GA
+291,Prattville,Autauga,AL
+292,Terry,Hinds,MS
+293,El Paso,El Paso,TX
+294,Salt Lake City,Salt Lake,UT
+295,O Fallon,Saint Clair,IL
+296,Carson,Los Angeles,CA
+297,Columbus,Muscogee,GA
+298,New Hartford,Oneida,NY
+299,Hamilton,Butler,OH
+300,Santa Ana,Orange,CA
+301,Loon Lake,Stevens,WA
+302,San Tan Valley,Pinal,AZ
+303,Crown Point,Lake,IN
+304,Phillipsburg,Warren,NJ
+305,Surprise,Maricopa County,AZ
+306,Piedmont,Canadian,OK
+307,Marietta,Cobb,GA
+308,Portage,Columbia,WI
+309,Rancho Santa Margarita,Orange,CA
+310,Palmetto Bay,Miami-Dade,FL
+311,Harrisville,Lewis,NY
+312,Richmond,Fort Bend,TX
+313,Houma,Terrebonne,LA
+314,Easley,Anderson,SC
+315,Goffstown,Hillsborough,NH
+316,Fishers,Hamilton,IN
+317,Belgium,Ozaukee,WI
+318,La Plata,Charles County,MD
+319,Milwaukee,Milwaukee,WI
+320,Frisco,Collin,TX
+321,Zachary,East Baton Rouge,LA
+322,Seattle,King,WA
+323,Tulsa,Tulsa,OK
+324,Camas,Clark,WA
+325,Spring Hill,Maury,TN
+326,Marana,Pima,AZ
+327,Dublin,Franklin,OH
+328,Venice,Sarasota,FL
+329,Centreville,Fairfax City,VA
+330,Fair Oaks,Sacramento,CA
+331,Tehachapi,Kern,CA
+332,Bauxite,Saline,AR
+333,Rockford,Winnebago,IL
+334,Castle Rock,Douglas,CO
+335,Round Rock,Williamson,TX
+336,Sweetwater,Monroe,TN
+337,Lehigh Acres,Lee,FL
+338,Morrison,Jefferson,CO
+339,Sugar Land,Fort Bend,TX
+340,Vidalia,Concordia,LA
+341,Prairieville,Ascension,LA
+342,Meadville,Crawford,PA
+343,Biloxi,Harrison,MS
+344,Hillsboro,Washington,OR
+345,Dix Hills,Suffolk,NY
+346,Crowley,Tarrant,TX
+347,Crystal Lake,McHenry,IL
+348,Portsmouth,Portsmouth City,VA
+349,Harlingen,Cameron,TX
+350,Laguna Niguel,Orange,CA
+351,Albuquerque,Bernalillo,NM
+352,Paradise Valley,Maricopa,AZ
+353,Scappoose,Columbia,OR
+354,Duluth,Saint Louis,MN
+355,Wayne,Passaic,NJ
+356,Puyallup,Pierce,WA
+357,Davie,Broward County,FL
+358,Homestead,Miami-Dade,FL
+359,O'fallon,St. Charles,MO
+360,Saint Louis,Saint Louis,MO
+361,Oak Harbor,Island,WA
+362,Davenport,Scott County,IA
+363,Huntington,Suffolk,NY
+364,Virginia Beach,Virginia Beach City,VA
+365,Mobile,Mobile,AL
+366,Mannford,Creek,OK
+367,Mundelein,Lake,IL
+368,Bridgeton,St. Louis,MO
+369,Savannah,Chatham,GA
+370,Newberg,Yamhill,OR
+371,Raleigh,Wake,NC
+372,Lexington,Fayette,KY
+373,Madison,Dane,WI
+374,Isle Of Palms,Charleston County,SC
+375,Roseville,Placer,CA
+376,Richardson,Dallas,TX
+377,Miramar Beach,Walton,FL
+378,Roanoke,Roanoke,VA
+379,Perrinton,Gratiot,MI
+380,Parsons,Labette,KS
+381,West Haven,Weber,UT
+382,Jackson,Hinds,MS
+383,Cuyahoga Falls,Summit,OH
+384,Glendale,Maricopa,AZ
+385,Beaumont,Riverside,CA
+386,Alpharetta,Fulton,GA
+387,Deer Park,Harris,TX
+388,Newark,Essex County,NJ
+389,Boynton Beach,Palm Beach,FL
+390,Baton Rouge,East Baton Rouge,LA
+391,Sea Cliff,Nassau,NY
+392,Burke,Fairfax,VA
+393,Pearland,Brazoria,TX
+394,Greensboro,Guilford,NC
+395,Alexandria,Fairfax,VA
+396,Sellersburg,Clark,IN
+397,Fresno,Fresno,CA
+398,Lavonia,Franklin,GA
+399,Mason,Warren,OH
+400,Hixson,Hamilton,TN
+401,Pensacola,Escambia,FL
+402,New Braunfels,Guadalupe,TX
+403,Yuma,Yuma,AZ
+404,Park City,Summit,UT
+405,Odessa,Ector,TX
+406,Milford,New Haven,CT
+407,Oklahoma City,Oklahoma,OK
+408,Arcadia,Los Angeles,CA
+409,Umatilla,Lake,FL
+410,Dayton,Montgomery,OH
+411,Murrieta,Riverside,CA
+412,Smithfield,Isle Of Wight,VA
+413,Carlisle,Cumberland,PA
+414,Hereford,Deaf Smith,TX
+415,Boston,Suffolk,MA
+416,Knightdale,Wake,NC
